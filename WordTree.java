@@ -134,6 +134,7 @@ public class WordTree {
 		return words;
 	}
 	private void allWords(Set<String> words, Node top, String word) {
+    if(top != null)
 		for(Node n : top.children) {
 			String tempWord = word + n.letter;
 			if(n.endOfWord) {
