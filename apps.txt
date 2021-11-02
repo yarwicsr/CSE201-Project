@@ -1,0 +1,1000 @@
+Zontrax,"Person outside car injured in collision w SUV nontraf, init",Yata,Google,4.68,edu.princeton.Stringtough,13.97
+Lotstring,Strain of flexor musc/fasc/tend of unsp fngr at forarm lv,Skalith,Android,0.6.1,com.xrea.Cookley,4.56
+Quo Lux,"Severely displaced Zone II fracture of sacrum, init",Brightbean,Android,4.7,com.blinklist.Viva,9.53
+Bytecard,"Insect bite (nonvenomous), left great toe, initial encounter",Eazzy,Android,4.5.7,org.altervista.Cardguard,2.35
+Zontrax,Abnormal microbiolog findings in specmn from resp org/thrx,BlogXS,Apple,6.75,com.xing.Zaam-Dox,9.36
+Tresom,"Other adverse effects, not elsewhere classified",Jaxnation,Google,1.2,com.reverbnation.Mat Lam Tam,5.75
+Ventosanzap,"Corrosion of second degree of right ankle, initial encounter",Topdrive,Google,9.3.5,com.foxnews.Overhold,7.35
+Sonair,"Displaced transverse fracture of unsp acetabulum, sequela",Zooxo,Android,3.8,org.dmoz.Regrant,8.0
+Flowdesk,"Nondisp fx of body of unspecified calcaneus, sequela",Oyoyo,Google,0.90,com.cnbc.Rank,3.74
+Solarbreeze,"Cont preg after uterin death of one fetus or more, unsp tri",Roodel,Apple,5.52,tv.ustream.Veribet,12.06
+Overhold,"Pnctr w foreign body of finger w damage to nail, init",Yodo,Google,6.2,au.gov.oaic.Bigtax,9.3
+Sub-Ex,"Body mass index (BMI) 40.0-44.9, adult",Bubblemix,Android,4.0,com.indiatimes.Gembucket,12.75
+Stringtough,"Nondisp fx of mid 3rd of navic bone of r wrs, 7thG",Skaboo,Android,2.5,com.huffingtonpost.Holdlamis,14.89
+Flowdesk,"Inj extensor musc/fasc/tend l rng fngr at forarm lv, init",Trunyx,Google,0.4.6,com.addthis.Voyatouch,6.73
+Kanlam,"Separation of muscle (nontraumatic), right upper arm",Wordpedia,Android,6.71,edu.washington.Trippledex,7.03
+Y-find,"Unsp injury of oth blood vessels of thorax, left side, subs",Jetpulse,Google,9.23,com.zdnet.Solarbreeze,6.5
+Stronghold,Atrioventricular and left bundle-branch block,Katz,Android,8.3,com.devhub.It,5.09
+Bytecard,"Disp fx of lesser tuberosity of right humerus, sequela",Eayo,Google,0.25,com.pcworld.It,2.31
+Ronstring,"Minor laceration of femoral artery, unspecified leg",Skipfire,Google,7.5,com.storify.Opela,9.91
+Stringtough,"Unsp fx unsp femur, subs for opn fx type I/2 w routn heal",Thoughtworks,Apple,5.56,edu.columbia.Rank,2.7
+Toughjoyfax,"Displ midcervical fx r femr, 7thE",Voolith,Apple,0.3.8,com.scribd.Y-Solowarm,8.84
+Bitchip,"Vertigo of central origin, left ear",Thoughtstorm,Android,0.77,ch.admin.It,1.88
+Treeflex,"Chronic iridocyclitis, left eye",Latz,Apple,1.0,com.answers.Subin,4.08
+Stim,"Pressure ulcer of left buttock, stage 2",Thoughtsphere,Apple,7.16,de.1und1.Bigtax,4.94
+Cookley,"Pnctr w/o foreign body of left cheek and TMJ area, sequela",Kimia,Apple,0.2.6,uk.co.amazon.Prodder,14.18
+Sub-Ex,"Congenital iodine-deficiency syndrome, unspecified",InnoZ,Apple,8.8,com.techcrunch.Alphazap,14.91
+Fintone,"Chronic lymphadenitis, except mesenteric",Eidel,Android,5.4.1,com.kickstarter.Gembucket,5.84
+Home Ing,"Nondisp seg fx shaft of unsp fibula, 7thB",Bluezoom,Android,7.7,com.woothemes.Stringtough,5.62
+Ronstring,"Poisoning by diagnostic agents, undetermined",Fatz,Apple,2.94,org.simplemachines.Tresom,7.78
+Toughjoyfax,"Injury of ulnar nerve at wrs/hnd lv of unsp arm, subs",Livepath,Android,8.6,com.omniture.Domainer,1.68
+Flowdesk,"Malignant neoplasm of peripheral nerves of trunk, unsp",Quatz,Google,0.34,be.youtu.Kanlam,6.16
+Holdlamis,Other congenital malformations of aortic and mitral valves,Rhybox,Apple,3.92,com.purevolume.Voyatouch,6.87
+Voyatouch,Neoplasm of unspecified behavior of unspecified kidney,Avavee,Apple,0.7.7,gov.nasa.Veribet,10.35
+Solarbreeze,Displacement of prosth dev/implnt/grft of genital tract,Realblab,Android,2.70,io.pen.Voyatouch,1.05
+Trippledex,"Merkel cell carcinoma of lower limb, including hip",Skinix,Apple,5.4,com.studiopress.Transcof,2.83
+Flowdesk,Long term (current) use of systemic steroids,Skimia,Android,5.3,com.amazon.Wrapsafe,10.3
+Trippledex,"Oth athscl native arteries of extremities, oth extremity",Tagfeed,Apple,0.5.1,com.elpais.Voyatouch,1.79
+Sonair,"Disp fx of base of fifth metacarpal bone. left hand, sequela",Brainsphere,Google,0.4.9,net.php.Tres-Zap,8.0
+Cookley,"Crushed by alligator, subsequent encounter",Wordware,Google,2.2,org.edublogs.Fix San,7.76
+Bigtax,Abnormal serum enzyme levels,Quinu,Apple,5.7,com.vk.Alpha,1.76
+Flexidy,"Spina bifida, unspecified",Jabbercube,Apple,0.8.0,com.baidu.Sub-Ex,10.65
+Holdlamis,"Other migraine, not intractable, without status migrainosus",Topiclounge,Google,0.23,com.quantcast.Veribet,12.98
+Zontrax,"Nondisplaced dome fracture of unsp acetabulum, sequela",Skippad,Google,0.5.5,au.net.abc.Stronghold,4.6
+Otcom,"Hemarthrosis, right foot",Babbleblab,Android,3.9,net.cpanel.Mat Lam Tam,8.92
+Zamit,"Type III occipital condyle fracture, left side, sequela",Devify,Apple,4.7,com.usatoday.Sonsing,14.39
+Gembucket,Crushing injury of hip,Ntag,Android,0.4.5,com.bloglines.Voltsillam,11.15
+Lotlux,Minor laceration of unspecified pulmonary blood vessels,Wikizz,Google,1.7,org.craigslist.Tampflex,2.57
+Y-Solowarm,"Stepmother, perpetrator of maltreatment and neglect",Wordtune,Android,1.38,com.twitpic.Namfix,2.56
+Toughjoyfax,"Displ transverse fx shaft of l rad, init for opn fx type I/2",Yadel,Apple,4.04,com.topsy.Transcof,6.98
+Konklab,"Toxic effect of zinc and its compounds, undetermined, subs",Twitterworks,Google,0.3.0,org.edublogs.Voyatouch,8.32
+Mat Lam Tam,"Poisoning by antiallerg/antiemetic, undetermined, sequela",Dabtype,Android,0.5.9,com.ucoz.Stronghold,1.57
+Rank,Secondary occlusal trauma,Bluezoom,Apple,6.2,com.vk.Bigtax,6.05
+Bitchip,"Spinal and epidur anesth induce hdache dur preg, first tri",Devbug,Android,0.5.8,tv.ustream.Voyatouch,3.34
+Otcom,"Maternal care for oth rhesus isoimmun, first tri, fetus 3",Voomm,Google,0.96,edu.cornell.Flexidy,7.58
+Bytecard,External constriction of left upper arm,Podcat,Android,0.73,uk.co.thetimes.Pannier,10.52
+Tresom,"Vascular comp fol infusn, tranfs and theraputc inject, init",Zoombox,Google,0.4.1,com.purevolume.Voltsillam,2.75
+Job,"Laceration with foreign body of oth part of neck, sequela",Leexo,Android,8.23,com.ycombinator.Overhold,8.92
+Bamity,Injury of eye and orbit,Yakijo,Google,5.8.6,jp.ne.biglobe.Regrant,3.14
+Bamity,"Unsp inj flexor musc/fasc/tend at forarm lv, unsp arm, init",Innotype,Google,9.8,com.icq.Daltfresh,4.95
+Fixflex,"Dislocation of MTP joint of right great toe, sequela",Gabtune,Apple,0.4.4,net.cpanel.Tin,4.64
+Sonsing,"Derang of post horn of lat mensc due to old tear/inj, r knee",Yabox,Android,7.2.5,com.alibaba.Opela,5.52
+Bigtax,"Unspecified dislocation of right toe(s), initial encounter",Geba,Google,2.1.1,com.usnews.Overhold,1.72
+Zontrax,"External constriction of left ring finger, initial encounter",Twitterbeat,Apple,3.4.3,com.storify.Andalax,7.25
+Greenlam,"Struck by baseball, initial encounter",Snaptags,Android,3.6.1,com.marketwatch.Job,4.42
+Ventosanzap,"Disp fx of med phalanx of unsp fngr, 7thD",Youspan,Google,0.1.4,com.issuu.Redhold,3.54
+Veribet,"Nondisp commnt fx shaft of rad, l arm, 7thR",Brightdog,Google,0.69,com.nytimes.Domainer,3.34
+Sub-Ex,Sepsis due to Staphylococcus aureus,Reallinks,Google,1.0.8,com.booking.Toughjoyfax,2.27
+Latlux,"Unsp open wound of unsp eyelid and periocular area, init",Mita,Android,1.6,edu.princeton.Prodder,14.95
+Stim,"Scotoma of blind spot area, bilateral",Buzzbean,Android,0.24,com.chron.Andalax,3.0
+Zamit,Chronic drug-induced interstitial lung disorders,Browsetype,Apple,7.8,com.jiathis.Namfix,9.88
+Otcom,Car driver injured in collision w nonmtr vehicle in traf,Realmix,Android,0.36,com.ifeng.Wrapsafe,12.75
+Asoka,"Drug-induced chronic gout, unspecified elbow",Ainyx,Apple,0.4.8,com.diigo.Trippledex,5.81
+Zaam-Dox,"Nondisp fx of middle third of navic bone of unsp wrist, sqla",Quamba,Google,0.12,com.ft.Toughjoyfax,14.71
+Rank,"Osteophyte, unspecified elbow",Trudoo,Google,0.89,cz.mapy.Domainer,1.29
+Lotstring,"Corrosion of third degree of unspecified lower leg, sequela",Dabfeed,Android,5.35,jp.co.amazon.Bigtax,3.58
+Vagram,Accident with wheelchair (powered),Zoombox,Google,1.3,de.spiegel.Sonsing,12.54
+Flowdesk,"Occupant of rail trn/veh injured in clsn w oth object, subs",Camimbo,Android,5.2,com.buzzfeed.Redhold,14.73
+Zaam-Dox,Burn of second degree of back of hand,Cogidoo,Android,3.4.2,com.baidu.Tin,8.65
+Voyatouch,"Nondisp fx of epiphy (separation) (upper) of unsp femr, 7thC",Meedoo,Apple,0.8.9,com.sitemeter.Tampflex,10.92
+Bitwolf,"Nondisp fx of post pro of unsp talus, 7thD",Thoughtstorm,Android,3.6,com.etsy.Transcof,9.1
+Trippledex,Rheumatoid polyneurop w rheumatoid arthritis of left elbow,Edgewire,Google,4.9.3,com.bigcartel.Voyatouch,12.14
+Prodder,Neoplasm of uncertain behavior of unsp endocrine gland,Realbuzz,Google,7.80,com.sogou.Alphazap,9.93
+Fintone,"Poisoning by beta-adrenocpt antag, accidental, sequela",Brainlounge,Google,0.48,com.washingtonpost.Solarbreeze,11.7
+Bamity,Contus/lac/hem brainstem w LOC >24 hr w ret consc lev,Avaveo,Google,0.2.4,com.wp.Home Ing,9.61
+Tres-Zap,"Villonodular synovitis (pigmented), unspecified hand",Demivee,Google,1.1.7,com.1688.Flowdesk,8.29
+Alpha,"Poisn by unsp systemic anti-infect and antiparastc, assault",Twiyo,Google,0.3.9,edu.wisc.Fintone,14.82
+Job,Unspecified injury of blood vessel of unspecified thumb,Demivee,Apple,3.8.7,ru.yandex.Span,9.18
+Zaam-Dox,"Unspecified injury of fallopian tube, bilateral, subs encntr",Tagchat,Google,7.5,com.fotki.Keylex,7.65
+Domainer,"Spontaneous rupture of flexor tendons, unspecified hand",Devpulse,Apple,8.3,net.behance.Cookley,11.85
+Toughjoyfax,"Bitten by other mammals, sequela",Eamia,Google,5.5.7,edu.princeton.Y-Solowarm,13.59
+Y-find,Subluxation stenosis of neural canal of sacral region,Realbridge,Android,0.44,com.geocities.Tin,13.87
+Biodex,"Severe persistent asthma, uncomplicated",Edgewire,Apple,3.9,net.a8.Konklab,4.59
+Konklab,"Osteophyte, right ankle",Jetpulse,Android,0.97,com.blogtalkradio.Namfix,6.9
+Alphazap,Rheumatoid vasculitis with rheumatoid arthritis,Yoveo,Google,0.94,fr.pagesperso-orange.Tin,8.06
+Ventosanzap,"Exposure of implanted vaginal mesh into vagina, sequela",BlogXS,Google,9.04,com.latimes.Cardify,9.0
+Bitwolf,"Adult osteochondrosis of spine, thoracolumbar region",Zooveo,Google,0.4.4,uk.gov.It,10.09
+Tres-Zap,"Idiopathic chronic gout, left shoulder, with tophus (tophi)",Vinte,Apple,0.41,gov.irs.Regrant,5.74
+Namfix,"Oth intraop and postproc comp and disorders of resp sys, NEC",Bluejam,Apple,4.55,de.e-recht24.Kanlam,6.09
+Y-find,"Displ oblique fx shaft of l rad, 7thH",Cogilith,Apple,6.9.9,com.twitter.Zontrax,7.68
+Wrapsafe,"Cutaneous abscess, furuncle and carbuncle of limb",Meemm,Apple,0.3.7,ly.ow.Greenlam,5.32
+Cookley,"Underdosing of tetracyclic antidepressants, init encntr",Blogtags,Apple,0.2.0,net.clickbank.Latlux,7.62
+Y-Solowarm,"Terorsm w explosn of marine weapons, civilian injured, subs",Midel,Apple,8.56,com.cloudflare.Quo Lux,9.71
+Viva,"Nondisp avulsion fx unsp ischium, subs for fx w nonunion",Babbleblab,Google,3.6.3,com.surveymonkey.Latlux,1.52
+Matsoft,"Undrdose of anticoag antagonist, vit K and oth coag, sequela",Quaxo,Google,0.2.6,cn.com.china.Treeflex,1.51
+Biodex,Acute myeloid leukemia with 11q23-abnormality in relapse,Browsedrive,Google,3.3.2,com.skype.Biodex,7.78
+Zathin,Person outside 3-whl mv injured in clsn w pedl cyc in traf,Tazz,Apple,1.8,edu.mit.Lotstring,14.62
+Greenlam,"Traum rupt of collat ligmt of l lit fngr at MCP/IP jt, subs",Skajo,Google,8.8.3,com.lulu.Voltsillam,9.01
+Duobam,"War op involving unintent restrict of air/airwy, milt, subs",LiveZ,Google,7.4.3,com.mozilla.Ventosanzap,5.5
+Tres-Zap,Angioimmunoblastic T-cell lymphoma,Gigaclub,Apple,0.2.7,gov.epa.Duobam,7.4
+Otcom,Failure to introduce or to remove other tube or instrument,Eayo,Apple,3.4.9,ru.rambler.Otcom,5.79
+Home Ing,"Open bite of unspecified part of neck, sequela",Digitube,Android,2.24,gov.whitehouse.Fintone,9.14
+Alpha,Meningococcal pericarditis,Twitterbeat,Apple,3.5.7,com.netlog.Flexidy,9.86
+Matsoft,"Unspecified injury of right ankle, sequela",Plambee,Google,1.1,com.theatlantic.Sub-Ex,6.43
+Span,"Laceration of musc/fasc/tend long hd bicep, left arm, init",Skimia,Apple,4.6,jp.exblog.Zathin,9.15
+Pannier,Granuloma of unspecified lacrimal passage,Voonder,Google,0.40,net.discuz.Ronstring,4.33
+Quo Lux,"Displ suprcndl fx w/o intrcndl extn low end unsp femr, sqla",Trilia,Google,0.53,ru.ucoz.Holdlamis,13.62
+Sonsing,Congenital pes planus,Topicblab,Android,8.9.3,com.etsy.Sonair,14.48
+Daltfresh,"Strain of musc/tend at lower leg level, right leg",Linktype,Android,0.13,com.yahoo.Lotstring,11.52
+Bitwolf,Viral cardiomyopathy,Tagopia,Android,0.27,com.soundcloud.Trippledex,10.72
+Tampflex,"Partial retinal artery occlusion, unspecified eye",Edgeify,Apple,5.4,gov.fema.Tresom,11.03
+Ronstring,"Central serous chorioretinopathy, left eye",Flashpoint,Android,6.66,edu.unc.Tin,13.33
+Pannier,"Rh incompatibility w hemolytic transfs react, unsp, sequela",Browsecat,Google,5.4.6,com.livejournal.Namfix,12.58
+Fintone,Acute myeloid leukemia with 11q23-abnormality in relapse,Feedfish,Android,7.43,com.apple.Mat Lam Tam,3.44
+Flowdesk,"Open bite of unsp toe(s) without damage to nail, init encntr",Wordware,Google,1.08,au.org.auda.Transcof,11.31
+Cardguard,"Poisoning by oth parasympath, accidental, subs",Omba,Android,9.3,jp.co.google.Zontrax,14.58
+Opela,"Burn 1st deg mult sites of right lower limb, ex ank/ft, subs",Roomm,Android,3.8,com.tinyurl.Viva,4.96
+Hatity,"Oth fracture of shaft of r humerus, subs for fx w malunion",Meembee,Apple,5.27,uk.ac.ox.Duobam,5.69
+Home Ing,I/I react d/t ventricular intracranial (communicating) shunt,Meevee,Google,3.9,com.marketwatch.Solarbreeze,7.4
+Fintone,"Oth tear of medial meniscus, current injury, unsp knee, subs",Tagopia,Android,3.2.1,com.java.Zaam-Dox,7.04
+Bitwolf,"Forced landing of ultralt/microlt/pwr-glider inj occ, init",Quinu,Android,0.88,edu.uiuc.Wrapsafe,7.51
+Zontrax,"Other rupture of muscle (nontraumatic), unsp ankle and foot",Vinder,Apple,4.9,uk.co.guardian.Tres-Zap,4.95
+Greenlam,"Oth fracture of lower end of left ulna, init for clos fx",Quinu,Apple,0.11,org.unesco.Tempsoft,12.65
+Bigtax,"Unsp infct of urinary tract in pregnancy, third trimester",Feedfire,Android,0.4.0,com.tumblr.Duobam,11.98
+Daltfresh,"Blister (nonthermal) of right little finger, subs encntr",Centizu,Android,0.59,net.cpanel.Redhold,8.76
+Domainer,"Laceration w fb of r little finger w/o damage to nail, init",Twitterlist,Google,2.89,com.surveymonkey.Ronstring,3.05
+Span,"Displaced fracture of navicular of left foot, sequela",Skyba,Google,1.35,com.netvibes.Konklab,10.1
+Bitchip,"Sltr-haris Type II physeal fx right metatarsal, 7thP",Avamba,Google,4.1.9,org.mozilla.Quo Lux,8.23
+Gembucket,"Oth dis of bld/bld-form org/immun mechnsm comp preg, 2nd tri",Gabtype,Android,0.50,com.reverbnation.Transcof,13.82
+Transcof,"Open bite of left eyelid and periocular area, init encntr",Mycat,Google,6.8,com.blogspot.Span,14.71
+Tres-Zap,Unspecified hypertrophy of vulva,Katz,Android,0.88,cz.toplist.Bytecard,1.03
+Matsoft,"4-part fx surg neck of l humerus, subs for fx w delay heal",Teklist,Google,7.25,uk.co.timesonline.Y-Solowarm,6.44
+Holdlamis,"Nondisp transcondy fracture of r humerus, init for opn fx",Eare,Android,0.76,com.smugmug.Domainer,12.86
+Zoolab,Dicroceliasis,Avamba,Apple,0.73,cn.com.sina.Zoolab,1.37
+Kanlam,"Dislocation of L4/L5 lumbar vertebra, subsequent encounter",Midel,Android,2.1,com.nymag.Keylex,4.75
+Fix San,"Poisoning by oth agents aff GI sys, assault, sequela",Flipbug,Android,0.9.3,net.furl.Zamit,12.42
+Tres-Zap,"Malar fracture, unspecified side",Vipe,Google,6.01,edu.illinois.Gembucket,8.02
+Redhold,"Injury of acoustic nerve, unspecified side, subs encntr",Skilith,Android,3.5.5,org.apache.Namfix,5.06
+Wrapsafe,Acquired absence of right ankle,Vinte,Google,6.8.6,de.1und1.Greenlam,4.88
+Ronstring,Encounter for other administrative examinations,Lazz,Google,0.2.4,com.gravatar.Aerified,14.72
+Holdlamis,"Struck by shoe cleats, sequela",Skilith,Apple,4.0,gov.nps.Holdlamis,2.87
+Tres-Zap,Other specified disorders of bone,Voomm,Google,0.19,jp.ne.goo.Transcof,10.29
+Pannier,"Burn of unspecified degree of left thumb (nail), subs encntr",Kare,Google,4.12,com.vk.Solarbreeze,14.9
+Tin,"Burn of first degree of unspecified foot, sequela",Skiptube,Google,0.6.8,com.cyberchimps.Bitwolf,14.26
+Tampflex,Postproc hemor of a circ sys org fol other circ sys proc,Avaveo,Android,7.81,com.ted.Veribet,14.27
+Aerified,"Pedestrian on foot injured in collision w rail trn/veh, unsp",Gabcube,Android,4.1.0,com.sun.Greenlam,14.15
+Zaam-Dox,"Open bite of unsp great toe w/o damage to nail, subs encntr",Wikibox,Apple,5.5.8,com.omniture.Lotlux,10.36
+Zoolab,Other specified injury of right Achilles tendon,Tagtune,Apple,2.4.4,uk.nhs.Cookley,3.62
+Cardguard,"Oth injury of blood vessel of right ring finger, init encntr",Jaxbean,Google,2.9,com.yolasite.Lotstring,8.43
+Flexidy,"Disorder of muscle tone of newborn, unspecified",Katz,Apple,4.4,gov.ftc.Quo Lux,4.11
+Overhold,Adhes due to fb acc left in body following remov cath/pack,Vidoo,Android,7.4.7,com.networksolutions.Vagram,2.85
+Stringtough,"Melioidosis, unspecified",Zoombox,Google,0.7.4,com.xrea.Sonair,13.08
+Namfix,"Parasomnia, unspecified",Thoughtbridge,Google,3.69,ru.vkontakte.Tresom,5.03
+Tempsoft,"Activity, american flag or touch football",Edgeclub,Android,0.7.1,jp.co.rakuten.Kanlam,12.76
+Ventosanzap,"Diffuse follicle center lymphoma, intra-abd lymph nodes",Browsetype,Apple,8.6,com.soundcloud.Konklux,1.71
+Overhold,Therapeutic and rehab neurological devices assoc w incdt,Oyope,Apple,0.9.1,com.latimes.Opela,10.67
+Cookley,"Oth thoracic, thoracolum and lumbosacr intvrt disc disorders",Quinu,Android,9.16,uk.co.ebay.Bitwolf,2.51
+Greenlam,"Unsp fracture of unsp talus, subs for fx w delay heal",Kanoodle,Android,6.9.4,com.flickr.Latlux,14.63
+Kanlam,"Nondisp fx of shaft of second metacarpal bone, right hand",Divape,Google,1.5,com.bing.Domainer,6.4
+Tempsoft,"Displ commnt fx shaft of ulna, l arm, 7thD",Wikido,Android,7.3.3,com.ft.Opela,11.22
+Alphazap,"Nondisp fx of epiphy (separation) (upper) of l femur, sqla",Zooxo,Android,4.05,com.aol.Subin,2.28
+Bigtax,"Oth fx shaft of right ulna, init for opn fx type 3A/B/C",Blogtag,Apple,6.3.4,net.seesaa.Regrant,2.21
+Toughjoyfax,"Penetrating wound of orbit w or w/o foreign body, right eye",Rhynoodle,Google,8.5,ru.narod.Ronstring,10.52
+Zamit,"Laceration w fb of right great toe w/o damage to nail, init",Tagcat,Google,9.95,nl.google.Zoolab,7.47
+Trippledex,Activities involving playing musical instrument,Gigazoom,Google,3.7.1,com.msn.Matsoft,3.7
+Lotlux,"Unspecified open wound of right upper arm, sequela",Yabox,Apple,0.4.4,jp.jugem.Tin,10.1
+Treeflex,"Nondisp artic fx head of r femr, subs for clos fx w malunion",Voonte,Google,0.1.7,de.t-online.Stronghold,11.75
+Sonsing,"Nondisp fx of neck of unsp metacarpal bone, init for opn fx",Jabbersphere,Android,2.93,com.multiply.Lotlux,1.89
+Namfix,"Nondisp fx of med malleolus of r tibia, 7thQ",Dabfeed,Android,5.61,com.wired.Opela,9.51
+Keylex,"Subluxation of L3/L4 lumbar vertebra, subsequent encounter",Realblab,Android,0.46,pl.google.Stronghold,2.78
+Tres-Zap,"Nondisp spiral fx shaft of l fibula, 7thB",Skalith,Apple,3.33,de.google.Zoolab,2.84
+Stim,"Pasngr in pk-up/van inj pk-up truck, pk-up/van in traf, sqla",Realpoint,Google,6.4,cn.com.sina.Asoka,7.7
+Y-find,"Unsp nondisp fx of second cervical vertebra, init for opn fx",Oodoo,Google,0.40,com.seattletimes.Namfix,6.0
+Bytecard,Assault by airgun discharge,Rhyzio,Google,1.1.5,uk.co.123-reg.Zamit,11.09
+Cookley,Non-prs chronic ulcer oth prt unsp lower leg w necros bone,Mybuzz,Apple,8.0,au.gov.oaic.Bamity,3.28
+Ventosanzap,"Adverse effect of antiallergic and antiemetic drugs, init",Feedmix,Google,5.9.7,com.moonfruit.Veribet,10.19
+Alpha,"Displ commnt fx shaft of r fibula, 7thJ",Oyoba,Google,1.0,com.alexa.Y-find,9.0
+Cardguard,"Osseous obstruction of Eustachian tube, unspecified ear",Voolith,Google,1.29,com.list-manage.Veribet,2.16
+Pannier,"Polyglandular dysfunction, unspecified",Tekfly,Google,7.56,io.github.Otcom,4.86
+Zaam-Dox,"Overexertion from strenuous movement or load, init",Oba,Apple,3.6,uk.co.google.Matsoft,7.53
+Lotlux,Other fish and shellfish poisoning,Photojam,Android,3.91,ru.ucoz.Temp,6.2
+Matsoft,"Focal chorioretin inflammation of posterior pole, right eye",Demizz,Android,0.66,de.google.Konklab,10.83
+Holdlamis,"Rupture of synovium, right finger(s)",Zoonoodle,Android,0.48,com.sciencedirect.Opela,8.16
+Zathin,Type 2 diabetes mellitus with periodontal disease,Twinder,Google,0.54,com.over-blog.Temp,8.31
+Duobam,"Laceration of fallopian tube, unilateral, subs encntr",Linkbridge,Google,0.6.6,ru.google.Zontrax,14.21
+Stronghold,"Hit by object due to controlled fire, not in bldg",Skibox,Android,1.8.0,br.com.google.Stim,2.91
+Transcof,"Solitary bone cyst, left ankle and foot",Yakidoo,Android,7.91,gov.usda.Sonsing,8.2
+Bitchip,"Nondisp fx of olecran pro w intartic extn l ulna, 7thG",Babbleopia,Apple,0.1.0,com.nba.Konklab,1.97
+Konklab,"Injury of abducent nerve, right side, sequela",Skiptube,Google,0.4.6,com.newyorker.Ronstring,2.48
+Tampflex,"Toxic effect of herbicides and fungicides, self-harm, subs",Devpoint,Android,0.29,fr.google.Trippledex,11.79
+Pannier,"Poisoning by vitamins, assault, subsequent encounter",Skyvu,Apple,4.1.6,gov.cdc.Latlux,4.05
+Biodex,"Other synovitis and tenosynovitis, upper arm",Oyoloo,Apple,3.61,com.newyorker.Y-find,4.19
+Sub-Ex,Cerebral infrc due to thrombosis of anterior cerebral artery,Ntags,Apple,0.6.5,com.xing.Voltsillam,5.27
+Flexidy,Drown due to falling or jumping from burning merchant ship,Blognation,Apple,9.8,com.sbwire.Duobam,13.91
+Y-find,"Underdosing of hemostatic drugs, initial encounter",Kaymbo,Android,7.33,com.smugmug.Zathin,6.48
+Domainer,Urethral stricture,Ozu,Android,8.16,com.baidu.Y-Solowarm,10.01
+Tempsoft,"Sltr-haris Type III physl fx low end r femr, 7thP",Abata,Apple,0.25,com.phpbb.Temp,11.31
+Greenlam,"Oth fx low end unsp tibia, 7thQ",Fivespan,Apple,4.4,com.java.Matsoft,14.16
+Fixflex,"Other effects of heat and light, sequela",Quire,Google,8.3.3,com.wunderground.Transcof,3.69
+Prodder,"Prsn brd/alit pk-up/van injured in nonclsn trnsp acc, init",Flipopia,Apple,0.5.9,com.qq.Prodder,5.14
+Sub-Ex,"Unsp fx shaft of l fibula, 7thE",Rhybox,Apple,5.36,com.salon.Y-find,2.7
+Voltsillam,Laceration of flexor musc/fasc/tend thumb at forearm level,Thoughtsphere,Apple,7.81,com.webmd.Wrapsafe,7.35
+Zamit,"Wear of artic bearing surface of unsp int prosth joint, subs",Voolith,Google,4.2,com.twitter.Konklab,6.38
+Trippledex,Athscl autologous artery CABG w unsp angina pectoris,Twimm,Google,0.6.0,jp.ne.so-net.Greenlam,6.65
+Lotlux,Other sprain of right index finger,Dynabox,Android,8.2.6,com.tripadvisor.Mat Lam Tam,4.62
+Pannier,"Oth injury of popliteal vein, left leg, subs encntr",Edgeblab,Android,0.1.8,gov.dot.Tampflex,6.45
+Y-find,Multiple fractures of ribs,Zoonoodle,Android,0.3.9,com.homestead.Daltfresh,12.07
+Pannier,"Nondisplaced oth fracture of tuberosity of l calcaneus, init",Blogspan,Android,0.4.2,edu.harvard.Ventosanzap,14.93
+Alphazap,Whooping cough due to Bordetella pertussis with pneumonia,Eire,Android,8.7,com.wordpress.Pannier,9.16
+Matsoft,Motorcycle passenger injured in collision w oth mv nontraf,Browsezoom,Apple,6.3,net.earthlink.Toughjoyfax,3.28
+Overhold,"Occup of pk-up/van injured in clsn w hv veh in traf, sequela",Meemm,Apple,0.8.3,com.live.Tresom,14.97
+Alpha,"Nondisp fx of med phalanx of l idx fngr, 7thP",Photofeed,Google,0.27,gov.irs.Cardify,13.15
+Andalax,Unspecified sprain of left elbow,Wikivu,Android,9.8,com.sciencedaily.Stringtough,9.07
+Sub-Ex,Personal history of medical treatment,Centizu,Apple,2.1,org.joomla.Treeflex,3.69
+Temp,"Osteitis condensans, upper arm",Flashspan,Android,1.8.2,com.cocolog-nifty.Prodder,7.42
+Fix San,"Contusion of left middle finger w/o damage to nail, init",Kaymbo,Android,9.4,gov.dot.Konklux,12.87
+Lotlux,"Poisoning by unspecified psychostimulants, undetermined",Topicblab,Android,9.4,ca.cbc.Zontrax,9.63
+Toughjoyfax,"Laceration w fb of r little finger w/o damage to nail, init",Ailane,Apple,9.80,com.friendfeed.Voltsillam,7.55
+Cookley,Retained plastic fragments,Camido,Android,0.5.3,ly.ow.Solarbreeze,1.05
+Matsoft,"Injury of r int carotid, intcr w LOC of 1-5 hrs 59 min, subs",Photospace,Apple,0.1.3,jp.jugem.Veribet,9.51
+Hatity,"Breakdown (mechanical) of umbrella device, subs encntr",Voonder,Android,0.78,nl.google.Redhold,3.45
+Sonair,"Drown due to being washed overboard from canoe/kayk, sequela",Tagpad,Apple,9.4,com.dell.Temp,8.64
+Flexidy,Typhus fever due to Rickettsia typhi,Tazzy,Android,2.1,com.baidu.Latlux,12.68
+Namfix,Non-institutional (private) residence as place,Zazio,Apple,4.3,com.fotki.Holdlamis,11.31
+Span,"Primary blast injury of descending colon, initial encounter",Mudo,Google,0.84,com.addthis.Bytecard,8.36
+Cookley,Slow feeding of newborn,Skajo,Google,0.7.6,com.cocolog-nifty.Zathin,6.76
+Greenlam,Partial traumatic transphalangeal amputation of r idx fngr,Gigashots,Apple,0.97,gov.va.Namfix,10.5
+Home Ing,"Major depressive disorder, recurrent, in full remission",Wordtune,Apple,8.56,com.alibaba.Redhold,11.3
+Bitchip,"Poisn by pertuss vaccine, inc combin w pertuss, self-harm",Tambee,Google,0.57,edu.princeton.Tresom,9.54
+Alphazap,"Puncture wound w foreign body of unsp upper arm, init encntr",Centizu,Apple,0.7.1,edu.arizona.Kanlam,1.73
+Bigtax,"Nondisp fx of prox 3rd of navic bone of r wrs, 7thD",Roomm,Google,3.0.0,com.nytimes.Rank,6.9
+Keylex,"Toxic effect of contact w oth jellyfish, undet, sequela",Skyndu,Android,2.3,com.businessweek.Keylex,8.61
+Fintone,"Displ oblique fx shaft of humer, l arm, 7thD",Youopia,Google,5.93,com.tinyurl.Biodex,11.79
+Bytecard,"Nondisp seg fx shaft of l tibia, 7thD",Skyndu,Google,2.8.7,com.webs.Y-find,6.11
+Pannier,Pneumonia due to other streptococci,Yombu,Apple,7.9,com.latimes.Tampflex,4.82
+Matsoft,Budd-Chiari syndrome,Oloo,Apple,0.19,com.ebay.Tres-Zap,10.42
+Span,Malignant neoplasm of right retina,Ntags,Android,8.93,com.jigsy.Solarbreeze,5.86
+Trippledex,"Unsp fracture of fifth lumbar vertebra, init for opn fx",Fadeo,Google,8.62,com.artisteer.Sub-Ex,6.48
+Biodex,"Laceration without foreign body of unsp breast, sequela",Divavu,Android,1.91,gov.irs.Viva,7.33
+Hatity,"Heat exhaustion, unspecified, initial encounter",Kimia,Android,1.58,com.nymag.Viva,2.85
+Vagram,"Complete traumatic amp of left foot at ankle level, init",Jaxnation,Google,0.3.5,org.apache.Ronstring,4.15
+Gembucket,"Burn of unspecified degree of unspecified thigh, sequela",Innotype,Android,0.2.8,jp.ne.ocn.Bitwolf,12.0
+Tempsoft,Other variants of Turner's syndrome,Twinder,Android,5.2.3,com.boston.Greenlam,12.57
+Hatity,Neoplasm of uncertain behavior of placenta,Browseblab,Android,0.3.8,com.blogtalkradio.Zamit,8.99
+Stim,Unspecified adrenocortical insufficiency,Jabberbean,Apple,8.7.5,com.nydailynews.Matsoft,11.11
+Tampflex,"Other subluxation of right patella, initial encounter",Latz,Apple,2.7,com.amazonaws.Holdlamis,4.24
+Biodex,"Laceration of flexor musc/fasc/tend at forarm lv, right arm",Quimba,Google,1.1.8,com.eventbrite.Vagram,5.83
+Lotlux,"Unsp car occ injured in clsn w pedl cyc nontraf, sequela",Flashspan,Google,0.5.5,com.scribd.Tin,7.67
+Zoolab,"Chronic multifocal osteomyelitis, unspecified humerus",Browsezoom,Android,0.8.1,com.elpais.Stim,4.85
+Stringtough,"Activity, boxing",Minyx,Google,5.64,ru.google.Aerified,4.66
+Tresom,"Burn first degree of head, face, and neck, unsp site, init",Dynava,Apple,5.8,com.usatoday.Ventosanzap,14.55
+Domainer,"Other secondary chronic gout, left ankle and foot",Skilith,Apple,0.85,com.kickstarter.Y-find,10.53
+Zontrax,"Displ commnt fx shaft of humerus, left arm, init for opn fx",Tagopia,Apple,1.8.8,com.hc360.Stringtough,13.27
+Fix San,"Complete traumatic amp of right foot at ankle level, sequela",Thoughtblab,Google,6.41,jp.ne.so-net.Konklab,6.85
+Aerified,Burn of unspecified degree of male genital region,Camimbo,Apple,0.3.1,com.sohu.Opela,6.03
+Overhold,"Post-traumatic hydrocephalus, unspecified",Katz,Apple,0.31,com.geocities.Tampflex,2.98
+Veribet,Other anterior subluxation of right hip,Realbuzz,Apple,8.3,com.newyorker.Viva,6.64
+Ventosanzap,"Burn of unsp deg mult left fingers (nail), including thumb",Rooxo,Google,0.99,uk.gov.Holdlamis,10.14
+Temp,"Poisoning by antirheumatics, NEC, assault, subs",Zoovu,Android,1.8,com.indiegogo.Solarbreeze,11.09
+Prodder,"Unsp injury of musc/tend at lower leg level, right leg, init",Voonder,Android,0.3.8,au.org.auda.Hatity,6.42
+Zoolab,Expsr to rdct in atmos pressr while surfc from underground,Kazu,Apple,1.9.9,jp.co.yahoo.Cardguard,1.21
+Tres-Zap,"Military operations involving rubber bullets, civilian",Brainsphere,Android,0.7.5,com.cafepress.Keylex,12.64
+Transcof,"Contracture, right hand",Ailane,Google,6.45,com.bizjournals.Domainer,11.67
+Otcom,"Pasngr in hv veh inj pick-up truck, pk-up/van nontraf, init",Zoomzone,Apple,0.62,org.altervista.Cookley,4.26
+Voltsillam,"Milt op w unsp effect of nuclear weapon, civilian, init",Riffpedia,Google,7.3,cn.desdev.Opela,12.68
+Overhold,"Lacerat musc/fasc/tend at shldr/up arm, unsp arm, sequela",Trudeo,Apple,8.5,com.qq.Zamit,2.83
+Alpha,Adverse effect of drugs affecting uric acid metabolism,Devshare,Google,0.63,com.facebook.Alphazap,6.47
+Bitchip,"Breakdown (mechanical) of int fix of bone of r forearm, subs",Demivee,Android,5.6,cn.com.sina.Daltfresh,6.73
+Mat Lam Tam,"Disp fx of base of nk of unsp femr, 7thQ",Skynoodle,Apple,8.3.4,com.sohu.Konklux,2.3
+Bitchip,"Blepharophimosis left eye, unspecified eyelid",Skinix,Android,6.62,com.digg.Hatity,12.86
+Latlux,Drugs primarily affecting the autonomic nervous system,Realbuzz,Apple,9.9,net.discuz.Mat Lam Tam,4.1
+Bigtax,"Disp fx of epiphy (separation) (upper) of r femr, 7thN",Edgetag,Android,6.8.3,com.intel.Bitchip,4.14
+Veribet,"Enteropathic arthropathies, right hand",Kaymbo,Google,0.5.3,com.cnet.Sub-Ex,13.91
+Latlux,"Other disp fx of upper end of left humerus, sequela",Demizz,Google,7.5.7,com.biblegateway.Regrant,8.75
+Job,"Underdosing of unsp nonopi analgs/antipyr/antirheu, sequela",Zoomzone,Apple,4.2,io.pen.Otcom,9.47
+Tampflex,"Burn of 3rd deg mu right fingers (nail), inc thumb, init",Roomm,Android,0.2.0,net.a8.Asoka,13.48
+Redhold,"Unsp opn wnd abd wall, unsp quadrant w penet perit cav, init",Ntags,Apple,1.2.0,de.1und1.Bitchip,7.7
+Tempsoft,Postproc hemor of a resp sys org following other procedure,Buzzster,Apple,3.7.3,fr.free.Bamity,8.64
+Bitwolf,"Poisoning by loop diuretics, intentional self-harm",Yadel,Android,2.74,de.spiegel.Y-find,10.03
+Tampflex,"Superficial frostbite of left toe(s), subsequent encounter",Brainverse,Google,0.83,com.yellowpages.Subin,1.31
+Flowdesk,Obst due to fb acc left in body fol injection or immuniz,Livefish,Apple,4.1,jp.co.infoseek.Overhold,13.58
+Zathin,"Circumvallate placenta, third trimester",JumpXS,Google,0.81,com.mashable.Bigtax,5.51
+Wrapsafe,"Other specified injuries of right lower leg, subs encntr",Kwinu,Apple,0.23,com.purevolume.Kanlam,5.34
+Trippledex,Oth and unspecified types of non-Hodgkin lymphoma,Jazzy,Android,2.8,com.chron.Latlux,7.87
+Y-find,Lac w/o fb of back wall of thorax w/o penet thoracic cavity,Gigaclub,Android,1.1.3,com.devhub.Alpha,5.39
+Quo Lux,"Acquired deformity of pinna, unspecified ear",Dablist,Google,0.86,la.51.Tresom,8.27
+Veribet,"Nondisplaced intertrochanteric fracture of right femur, init",Ailane,Google,0.97,com.eepurl.Solarbreeze,14.69
+Duobam,"Calcium deposit in bursa, right hand",Brightdog,Apple,0.4.2,com.latimes.Fintone,14.14
+Stringtough,"Separation of muscle (nontraumatic), upper arm",Realblab,Android,3.4.1,gd.is.Y-find,13.66
+It,Unspecified hypertrophy of vulva,Dabjam,Apple,0.7.0,com.flickr.Span,4.72
+Andalax,"Papyraceous fetus, second trimester",Brainbox,Google,4.5.1,com.ning.Sonair,14.16
+Vagram,"Burn of second degree of neck, sequela",Zoombeat,Apple,0.15,com.sphinn.Tin,5.16
+It,Injury of scalp of newborn due to monitoring equipment,Babbleblab,Apple,9.04,com.squarespace.Regrant,1.07
+Ventosanzap,"Stress fracture, right femur, subs for fx w delay heal",Meetz,Android,0.42,jp.co.infoseek.Daltfresh,1.25
+Vagram,"Unsp pedl cyclst injured in nonclsn trnsp acc in traf, init",Chatterpoint,Google,1.2.9,jp.japanpost.Bitwolf,2.32
+Otcom,"Prsn brd/alit mtrcy inj in clsn w statnry object, sequela",Omba,Google,2.32,com.indiegogo.Regrant,12.02
+Prodder,"Activity, american flag or touch football",Roomm,Apple,1.43,com.sohu.Transcof,9.34
+Domainer,"Smith's fx r radius, subs for opn fx type 3A/B/C w malunion",Babbleblab,Google,3.8.5,com.vistaprint.Stronghold,9.54
+Job,Nondisplaced fracture of posterior wall of left acetabulum,Abata,Android,5.1,com.yelp.Sonair,2.4
+Zoolab,"Unsp occipital condyle fracture, subs for fx w nonunion",Minyx,Google,5.73,net.sourceforge.Zontrax,10.17
+Greenlam,"Aneurysmal bone cyst, unspecified site",Bubblemix,Google,0.83,edu.psu.Zaam-Dox,13.76
+Stronghold,"Contact w hot household appliance, undetermined intent, subs",Yodel,Android,7.54,com.barnesandnoble.Duobam,1.96
+Biodex,"Kaschin-Beck disease, right hip",Kare,Apple,3.25,com.mac.Rank,9.97
+Stronghold,Jump/div into natrl body of water strk surfc cause oth inj,Eare,Google,6.3.3,com.deviantart.Fix San,4.62
+Voyatouch,"Pathological fracture, left toe(s), subs for fx w nonunion",Dabvine,Apple,2.09,com.weather.Daltfresh,7.06
+Subin,Other specified congenital malformations,Jaxbean,Google,4.0,de.1und1.Sub-Ex,8.23
+Vagram,"Disp fx of epiphy (separation) (upper) of r femr, 7thP",Ntag,Google,7.3.7,com.seattletimes.Pannier,2.41
+Fintone,"Cholera due to Vibrio cholerae 01, biovar cholerae",Jazzy,Google,9.0,com.wufoo.Wrapsafe,3.01
+Tin,Central cord syndrome at C8 level of cervical spinal cord,Roomm,Android,8.71,com.mashable.Flexidy,5.39
+Tres-Zap,Brachial plexus disorders,Skippad,Android,5.25,gl.goo.Y-Solowarm,7.95
+Cookley,"Legal intervnt w oth sharp objects, suspect injured, sequela",Demimbu,Android,0.9.0,com.addtoany.Zoolab,8.2
+Vagram,"Oth physl fx lower end rad, left arm, subs for fx w malunion",Oyondu,Android,8.2,uk.ac.ox.It,11.66
+Span,"Legal intervnt involving injury by dynamite, bystand injured",Chatterpoint,Apple,0.35,la.51.Greenlam,4.31
+Cardguard,Human metapneumovirus as the cause of diseases classd elswhr,Dynabox,Google,2.7.0,us.imageshack.Ventosanzap,9.97
+Pannier,"Unspecified fracture of left ilium, sequela",Quinu,Apple,9.77,gov.nih.Zontrax,12.53
+Cardify,"Unequal limb length (acquired), left ulna",Digitube,Google,8.4.5,com.netlog.Keylex,1.81
+Voyatouch,Inflammatory polyps of colon with intestinal obstruction,Rooxo,Android,0.81,com.trellian.Konklab,13.35
+Zoolab,"Maternal care for excess fetal growth, unsp trimester, oth",Divanoodle,Apple,7.1.7,cn.google.Konklux,10.13
+Span,"Anterior displaced Type II dens fracture, init for clos fx",Layo,Android,0.99,net.comcast.Keylex,5.51
+Cookley,"Burkitt lymphoma, lymph nodes of multiple sites",Quimm,Google,9.8.7,com.bloglovin.Stringtough,12.66
+Duobam,Nondisplaced fracture of medial wall of left acetabulum,Skyvu,Android,3.98,com.4shared.Pannier,7.63
+Flowdesk,"Disp fx of med malleolus of l tibia, 7thM",Shuffletag,Android,3.09,com.yolasite.Konklab,10.56
+Tin,"Salmonella infection, unspecified",Flashspan,Apple,6.6.9,gov.ed.Bigtax,13.06
+Domainer,"Path fracture, right radius, subs for fx w delay heal",Jetpulse,Android,0.5.5,com.bluehost.Job,13.92
+Sonair,"Fracture of condylar process of left mandible, sequela",Zoonoodle,Google,6.52,com.ft.Job,2.11
+Bytecard,"Neoplm of uncrt behav of lymphoid,hematpoetc & rel tiss,unsp",Quinu,Apple,0.82,com.washingtonpost.Tresom,13.15
+Konklux,"Legal intervnt w oth blunt objects, bystand injured, subs",Zoomlounge,Google,5.2.3,de.t-online.Fintone,14.69
+Treeflex,"Legal intervnt w unsp blunt obj, law enforc offl inj, init",Centizu,Google,0.69,edu.tamu.Aerified,12.92
+Tres-Zap,"Insect bite (nonvenomous), unspecified foot",Edgeclub,Apple,3.9.4,uk.co.webeden.Span,4.52
+Aerified,Bedroom in mobile home as place,Devpulse,Android,0.23,com.time.Keylex,9.27
+Y-Solowarm,Pre-existing secondary hypertension complicating childbirth,Realblab,Apple,0.40,org.unicef.Kanlam,10.23
+Asoka,Personal history of in-situ neoplasm,Rhycero,Apple,4.4.4,com.forbes.Daltfresh,3.35
+Wrapsafe,Benign neoplasm of tongue,Yata,Android,2.9,com.prweb.Zathin,12.33
+Fixflex,"Toxic effect of oth substances, accidental (unintentional)",Thoughtbeat,Android,6.4,org.bbb.Sonsing,14.13
+Konklab,"Labor and delivery comp by vascular lesion of cord, fetus 5",Eayo,Android,6.95,net.php.Cardify,1.71
+Latlux,"Path fx in oth disease, l femur, subs for fx w delay heal",Photolist,Android,0.94,com.etsy.Zathin,11.49
+Stringtough,"Family hx of disabil and chr dis leading to disablement, NEC",Mita,Apple,4.40,gov.ed.Regrant,13.14
+Rank,Onchocerciasis with other eye involvement,Minyx,Apple,9.4.1,com.etsy.Stronghold,13.68
+Solarbreeze,"Other superficial bite of left front wall of thorax, sequela",Zooveo,Google,0.7.7,de.e-recht24.Mat Lam Tam,4.28
+Otcom,"Laceration of musc/fasc/tend at shldr/up arm, left arm",Lazzy,Google,6.3.5,br.com.google.Bitwolf,12.25
+Subin,"Acquired clubhand, right hand",Mynte,Apple,0.33,edu.virginia.Trippledex,5.77
+Opela,"Unstable burst fracture of T9-T10 vertebra, init for opn fx",Dablist,Google,0.89,com.nbcnews.Treeflex,12.14
+Otcom,"Corros 3rd deg mu sites of shldr/up lmb, except wrs/hnd",Photobug,Android,9.5,com.hubpages.Voyatouch,8.65
+Tempsoft,"Acute myelomonocytic leukemia, in relapse",Chatterbridge,Android,0.84,fr.google.Ronstring,2.31
+Redhold,"Noninfective disorders of pinna, unspecified ear",Mydo,Google,5.9.9,us.icio.Pannier,12.93
+Cardify,Malignant neoplasm of overlapping sites of stomach,Centimia,Android,0.6.8,com.engadget.Lotstring,9.12
+Tampflex,"Toxic effect of carb monx from mtr veh exhaust, self-harm",Dabjam,Android,0.66,com.alibaba.Zoolab,13.0
+Viva,Oblique fracture of shaft of tibia,Jaxnation,Apple,2.0.7,com.wired.Zoolab,2.34
+Zoolab,"Maternal care for unsp congen malform of uterus, second tri",Dynabox,Android,5.0.6,com.indiatimes.Holdlamis,2.48
+Aerified,"Unsp disorder of synovium and tendon, unspecified upper arm",Kazio,Android,0.21,com.digg.It,6.7
+Wrapsafe,"Poisn by unsp nonopi analgs/antipyr/antirheu, undet, subs",Twitterworks,Android,0.12,com.canalblog.Bigtax,14.2
+Toughjoyfax,"Nondisp seg fx shaft of rad, r arm, 7thR",Dabvine,Apple,8.97,com.chron.Temp,4.09
+Sonsing,"Diseases of the resp sys comp pregnancy, third trimester",Devpoint,Android,4.6,com.cbsnews.Otcom,6.65
+Prodder,"Other juvenile osteochondrosis, upper limb",Bubbletube,Apple,5.8,org.w3.Wrapsafe,8.75
+Asoka,Hemiplga fol oth cerebvasc disease aff left dominant side,Rhycero,Apple,7.26,gov.senate.Duobam,3.9
+Bitwolf,"Unsp fx head of unsp femur, init for opn fx type I/2",Reallinks,Apple,1.0,gl.goo.Sub-Ex,1.65
+Subin,Late congenital cardiovascular syphilis,Yakitri,Apple,7.85,com.ebay.Treeflex,14.96
+Temp,"Type 1 diabetes with stable prolif diabetic rtnop, left eye",Tambee,Android,8.32,com.baidu.Matsoft,12.93
+Treeflex,Marginal corneal ulcer,Centizu,Apple,0.86,edu.nyu.Zathin,3.35
+Wrapsafe,Malig neoplasm of ovrlp sites of retroperiton and peritoneum,Dabshots,Google,0.5.1,com.lulu.Stringtough,5.76
+Otcom,"Displ apophyseal fx l femr, 7thQ",Zazio,Google,0.86,com.reference.Aerified,13.06
+Zoolab,"Pnctr w fb of unsp eyelid and periocular area, init",Jaxbean,Android,0.68,gov.dot.Domainer,6.93
+Stim,Complete traumatic amp at level betw unsp hip and knee,Pixope,Google,9.95,com.zdnet.Greenlam,8.76
+Wrapsafe,Unspecified hypertrophy of vulva,Livepath,Android,0.4.8,cn.com.china.Redhold,2.65
+Y-find,Premature separation of placenta with coagulation defect,Rhycero,Android,9.62,com.taobao.Matsoft,8.19
+Holdlamis,"Brown-Sequard syndrome at C7, subs",Thoughtstorm,Google,2.09,com.mapquest.Transcof,7.11
+Zaam-Dox,"Lesion of sciatic nerve, right lower limb",Riffpath,Google,0.45,com.mashable.Home Ing,8.8
+Viva,"Pathological fracture, right foot, subs for fx w routn heal",Oyope,Android,6.31,org.redcross.Voltsillam,14.15
+Zamit,"Unsp fx fourth lum vertebra, subs for fx w delay heal",Jabberbean,Apple,0.4.1,com.livejournal.Ronstring,9.79
+Ventosanzap,"Embolism due to nervous system prosth dev/grft, init",Browsebug,Apple,1.50,gov.usa.Aerified,4.88
+Y-Solowarm,Loose body in ankle and toe joints,Twimbo,Google,3.55,com.dedecms.Stringtough,1.55
+Stronghold,"Oth fracture of T11-T12 vertebra, subs for fx w nonunion",Mudo,Android,8.60,com.meetup.Asoka,1.13
+Ventosanzap,Exposure to oth furniture fire due to unsp burning material,Fivespan,Android,0.89,com.squarespace.Bamity,11.57
+Cookley,"Burn of other internal organ, subsequent encounter",Quimba,Apple,0.2.4,com.vistaprint.Home Ing,5.3
+Holdlamis,Myelodysplastic syndromes,Browseblab,Google,1.7,org.dyndns.Ronstring,1.07
+Cookley,"Milt op involving unarmed hand to hand combat, milt, sequela",Mydeo,Apple,0.35,jp.co.infoseek.Aerified,4.78
+Lotlux,"Burn due to other unpowered watercraft on fire, init encntr",Twitterbridge,Android,8.2.9,com.lulu.Asoka,9.69
+Transcof,"Osteitis condensans, unspecified lower leg",Flipstorm,Android,0.7.1,com.wix.Voyatouch,7.77
+Otcom,Contact with hot water in bath or tub,Fatz,Google,1.2.7,com.sphinn.Tin,11.07
+Overhold,"Maternal care for fetal problem, unsp, third tri, fetus 3",Gabspot,Android,2.4.6,com.arstechnica.Fintone,5.38
+Stronghold,Toxic effect of hydrogen sulfide,Eare,Apple,1.20,au.gov.nsw.Prodder,11.05
+Fixflex,"Chronic gout due to renal impairment, right knee",Twinte,Android,0.9.3,us.imageshack.Regrant,6.87
+Zamit,"Blister (nonthermal) of left front wall of thorax, subs",Camimbo,Google,0.6.3,com.phpbb.Aerified,6.94
+Sub-Ex,"Adverse effect of drug aff the autonomic nervous sys, subs",Innotype,Apple,0.3.7,com.cloudflare.Sonair,2.16
+Viva,"Lacerat musc/tend ant grp at low leg level, left leg, init",Kwideo,Apple,0.35,com.symantec.Transcof,4.21
+Fixflex,"Maternal care for Anti-A sensitization, unsp tri, fetus 3",Eayo,Apple,3.3,com.tmall.Latlux,12.36
+Bitwolf,Strain of flexor musc/fasc/tend thumb at forearm level,Livefish,Apple,0.7.5,us.icio.Mat Lam Tam,9.5
+Cardify,Eumycetoma,Topiczoom,Android,2.74,org.drupal.Rank,7.54
+Flowdesk,"Nondisp fx of ant column of left acetab, init for opn fx",Skajo,Apple,0.19,com.answers.Holdlamis,7.66
+Treeflex,"Staphylococcal arthritis, right elbow",Katz,Apple,7.3,jp.ameblo.Tampflex,8.34
+Sonair,"Nondisplaced subtrochanteric fracture of right femur, init",Ntags,Google,4.8,org.un.Lotlux,9.23
+Stronghold,"Retinopathy of prematurity, stage 3, bilateral",Demizz,Apple,1.2.6,com.scribd.Ventosanzap,1.69
+Veribet,"Matern care for oth or susp poor fetl grth, unsp tri, fts5",Riffpedia,Apple,0.74,com.addtoany.Job,13.33
+Holdlamis,Infection and inflammatory reaction due to insulin pump,Blogspan,Apple,0.77,com.merriam-webster.Y-Solowarm,6.66
+Zaam-Dox,"Leakage of infusion catheter, initial encounter",Leenti,Google,4.9.8,gov.hhs.Regrant,14.41
+Stim,Hemorrhage of incontinent external stoma of urinary tract,Photolist,Google,0.51,org.redcross.Otcom,4.98
+Latlux,"Disp fx of lateral malleolus of l fibula, 7thP",Skyndu,Google,2.7.1,org.gmpg.Tresom,9.57
+Flexidy,"Superficial foreign body, unspecified hip, sequela",Divavu,Apple,2.53,com.symantec.Matsoft,11.42
+Tres-Zap,Encounter for fitting and adjustment of other devices,Photofeed,Android,5.8,com.naver.Sonsing,11.41
+Flexidy,"Car passenger injured in collision w van nontraf, init",Tagopia,Android,3.6,com.scribd.Lotlux,5.96
+Sub-Ex,"Melanoma in situ of unsp upper limb, including shoulder",Photolist,Google,0.2.8,pl.google.Vagram,14.77
+Bigtax,"Unsp injury of less saphenous at lower leg level, unsp leg",Yakijo,Android,8.0.2,edu.wisc.Pannier,4.03
+Aerified,Blister (nonthermal) of unspecified forearm,Rooxo,Apple,6.9,com.hibu.Greenlam,4.82
+Redhold,"Oth specific arthropathies, NEC, unsp hip",Jatri,Android,3.3.2,net.behance.Bytecard,9.87
+Bigtax,Sarcoid arthropathy,Topiczoom,Android,0.6.2,com.mysql.Flexidy,11.9
+Ronstring,Cerebral infrc due to thrombosis of right cereblr artery,Ntag,Android,5.9,com.prnewswire.Veribet,1.29
+Stronghold,"Twin liveborn infant, delivered by cesarean",Kayveo,Apple,6.3.7,jp.co.infoseek.Redhold,4.4
+Sub-Ex,"Displaced spiral fracture of shaft of left fibula, init",Cogibox,Google,5.8,com.geocities.Opela,2.82
+Latlux,"Assault by knife, subsequent encounter",Linklinks,Google,0.99,com.hexun.Domainer,13.3
+Rank,"Pathological fracture in other disease, other site, sequela",Reallinks,Android,0.2.4,eu.europa.Prodder,8.12
+Prodder,"Legal intervnt involving oth explosives, bystander injured",Gigabox,Apple,3.6.3,com.gizmodo.Y-find,1.14
+Bytecard,"Contusion of left lesser toe(s) w damage to nail, init",Vipe,Google,1.4.9,com.wikispaces.Alpha,1.6
+Overhold,"Other synovitis and tenosynovitis, right ankle and foot",Trilia,Google,3.4.5,com.netlog.Ronstring,3.31
+Hatity,"Person outsd pk-up/van inj pick-up truck, pk-up/van nontraf",Gabcube,Google,8.6.2,com.vk.Viva,6.57
+Konklab,"Occupant (driver) of hv veh injured in oth trnsp acc, subs",Photojam,Google,0.88,jp.co.amazon.Pannier,1.35
+Pannier,"War op w explosn of unsp marine weapon, civilian, sequela",Rhybox,Google,7.3.8,gov.house.Fixflex,7.22
+Cookley,"Other bursal cyst, unspecified site",Tazzy,Apple,0.7.4,com.globo.Alpha,10.58
+Cookley,"Prsn brd/alit mtrcy inj in clsn w nonmtr vehicle, sequela",Jabbercube,Apple,8.6,br.com.google.Bytecard,3.21
+Flexidy,"Foreign body in mouth, sequela",Flashspan,Android,0.9.6,gov.house.Stringtough,6.39
+Tin,"Disp fx of post pro of right talus, subs for fx w delay heal",Shufflebeat,Google,9.29,com.businesswire.Otcom,7.69
+Konklab,"Unsp fx upper end unsp ulna, subs for clos fx w delay heal",Centizu,Android,1.05,com.surveymonkey.Andalax,14.08
+Ronstring,"Oth pregnancy related conditions, second trimester",Miboo,Android,0.87,gov.ca.Andalax,3.65
+Kanlam,"Burn of second degree of left elbow, initial encounter",Skinix,Android,0.27,com.springer.Bytecard,10.22
+Lotlux,"Burn of mouth and pharynx, initial encounter",Blogspan,Android,0.6.1,jp.ameblo.It,10.8
+Tin,"Other fracture of occiput, unspecified side, 7thK",Voonix,Android,8.2,com.boston.Hatity,2.8
+Latlux,"Nondisp seg fx shaft of l tibia, init for opn fx type I/2",Rooxo,Android,8.90,net.cpanel.Wrapsafe,7.7
+Alpha,Atyp squam cell not excl hi grd intrepith lesn cyto smr crvx,Photolist,Google,0.50,com.ycombinator.Gembucket,13.72
+Daltfresh,"Oth fracture of shaft of right tibia, init for clos fx",Myworks,Android,2.19,com.yolasite.Opela,7.06
+Bamity,Intraventricular hemorrhage due to birth injury,Ntag,Android,0.7.3,jp.geocities.Wrapsafe,1.72
+Bytecard,Nondisplaced fracture of left tibial tuberosity,Kwilith,Android,0.43,com.barnesandnoble.Asoka,14.18
+Overhold,"Disp fx of med phalanx of r lit fngr, 7thG",Kazu,Google,2.1,io.soup.Namfix,2.69
+Aerified,Leakage of breast prosthesis and implant,Zoomlounge,Apple,4.18,com.oakley.Tres-Zap,1.53
+Tempsoft,"Unsp fx the low end l rad, 7thE",Ozu,Android,9.8.4,com.globo.Prodder,9.96
+Cookley,Body dysmorphic disorder,Dynabox,Google,0.8.5,gov.fda.Bamity,4.14
+Y-Solowarm,"Occup of hv veh injured in clsn w ped/anml nontraf, sequela",Devpulse,Google,6.1,info.aboutads.It,9.33
+Pannier,"Poisoning by oth agents aff GI sys, accidental, init",Edgepulse,Google,0.26,com.over-blog.Pannier,5.12
+Bytecard,"Dislocation of unsp interphaln joint of r rng fngr, init",Dabtype,Android,0.57,com.ibm.Subin,1.38
+Quo Lux,"Laceration with foreign body, right thigh, subs encntr",Lazz,Google,4.1.7,cz.toplist.Biodex,9.18
+Temp,"Unspecified open wound of unspecified wrist, sequela",Dablist,Google,6.7,com.usatoday.Fixflex,3.44
+Toughjoyfax,"Mech compl of oth urinary devices and implants, subs encntr",Dabvine,Android,5.7,com.reddit.Holdlamis,13.24
+Y-find,Melanoma in situ of other and unspecified parts of face,Plambee,Android,0.51,com.linkedin.Span,14.68
+Kanlam,"Contracture of muscle, other site",Jatri,Apple,0.60,com.disqus.Keylex,6.45
+Overhold,Nondisp fx of proximal phalanx of left index finger,Oba,Android,4.59,com.tinypic.Regrant,13.71
+Temp,"Other dislocation of right radial head, initial encounter",Eimbee,Google,3.95,edu.illinois.Redhold,14.28
+Job,"Sltr-haris Type IV physl fx low end humer, unsp arm, 7thK",Layo,Google,7.8.4,au.org.auda.It,8.14
+Trippledex,"Underdosing of unspecified hormone antagonists, init encntr",Skinder,Apple,0.64,com.reverbnation.Tampflex,12.84
+Konklab,Other cystitis with hematuria,Flipopia,Apple,2.4.9,com.tripod.Quo Lux,8.4
+Transcof,"Tox eff of unsp halgn deriv of aromat hydrocrb, undet, sqla",Fiveclub,Apple,8.6.3,com.elegantthemes.Zamit,3.63
+Voltsillam,"Stress fracture, unspecified hand",Meevee,Android,1.42,com.jiathis.Otcom,8.75
+Veribet,"Other injuries of left eye and orbit, subsequent encounter",Zoomlounge,Android,3.3,com.moonfruit.Konklux,12.9
+Bitwolf,"Fracture of coronoid process of right mandible, 7thB",Dabshots,Android,7.7,com.nymag.Sonsing,5.96
+Subin,Injury of oculomotor nerve,Shufflester,Google,5.62,pl.home.Alphazap,2.65
+Fixflex,"Tox eff of corrosv alkalis & alk-like substnc, slf-hrm, sqla",Skidoo,Google,3.6,jp.co.infoseek.Sonsing,3.8
+Andalax,Calculus of GB and bile duct w/o cholecyst w/o obstruction,Photobean,Google,8.6,com.bigcartel.Zamit,14.4
+Tempsoft,"Torus fx upper end of unsp radius, subs for fx w nonunion",Yoveo,Apple,0.17,jp.ne.sakura.Aerified,7.45
+Cardify,"Galeazzi's fracture of left radius, init for opn fx type I/2",Rhycero,Google,1.1.1,com.reverbnation.Zoolab,9.48
+Flowdesk,"Insect bite (nonvenomous) of right forearm, sequela",Thoughtstorm,Android,0.4.7,com.deviantart.Gembucket,2.78
+Solarbreeze,"Hemophthalmos, right eye",Livetube,Google,0.31,jp.ne.goo.Temp,5.55
+Regrant,"Legal intervnt involving unsp explosv, suspect injured, init",Muxo,Android,6.9.2,jp.japanpost.Redhold,13.56
+Tampflex,Cutaneous strongyloidiasis,Linklinks,Apple,1.11,com.reference.Cardguard,8.51
+Zontrax,"Infct of amniotic sac and membrns, unsp, unsp tri, fetus 4",Fatz,Android,0.10,com.pinterest.Tampflex,4.53
+Voyatouch,Hemorrhage due to genitourinary prosth dev/grft,Leexo,Android,6.22,fr.free.Y-find,5.49
+Biodex,"Toxic effect of lacrimogenic gas, undetermined, init encntr",Quire,Google,0.37,com.reddit.Flowdesk,11.35
+Prodder,"Partial traumatic amputation of right foot, level unsp, init",Oyoloo,Google,9.65,uk.co.google.Y-Solowarm,5.14
+Daltfresh,Other papulosquamous disorders,Zooveo,Android,9.55,com.tinyurl.Kanlam,3.22
+Biodex,"Drug-induced chronic gout, unspecified knee",Katz,Android,3.7,fr.google.Biodex,9.57
+Y-Solowarm,"Age-rel osteopor w crnt path fx, unsp femr, 7thG",Linkbuzz,Android,0.5.7,us.imageshack.Vagram,4.68
+Stim,"Unsp injury of superficial palmar arch of unsp hand, init",Leexo,Android,4.4.4,net.furl.Voyatouch,13.31
+Zaam-Dox,Benign neoplasm of retina,Topdrive,Android,0.5.3,com.jigsy.Ronstring,8.27
+Regrant,"Disp fx of lunate, right wrist, init for clos fx",Jazzy,Google,5.16,com.washingtonpost.Solarbreeze,6.69
+Stringtough,"Tonic pupil, left eye",Viva,Android,0.5.4,com.storify.Konklab,7.81
+Fintone,Car passenger injured in collision w 2/3-whl mv nontraf,Quimba,Google,0.96,com.lycos.Keylex,5.82
+Tin,"Laceration without foreign body, unspecified hip, sequela",Kazio,Google,0.4.0,com.arstechnica.Voltsillam,8.27
+Andalax,Enterostomy hemorrhage,Viva,Google,4.7,com.cargocollective.Lotlux,10.94
+Bigtax,"Toxic effect of venom of black widow spider, self-harm, init",Skajo,Apple,1.09,gov.noaa.Lotlux,9.1
+Alpha,Pneumoconiosis due to dust containing silica,Innotype,Android,7.3.4,com.topsy.Duobam,7.99
+Zaam-Dox,"Occ animal-drwn veh injured collision hvy veh, sequela",Yakitri,Google,0.3.1,com.ask.Cardguard,5.19
+Sonair,"Strain intrns musc/fasc/tend l lit fngr at wrs/hnd lv, init",Skimia,Apple,0.38,com.digg.Biodex,1.52
+Voyatouch,"Oligohydramnios, unspecified trimester, fetus 1",Mydo,Android,2.4.1,com.flickr.Matsoft,11.25
+Biodex,"Dislocation of metacarpophalangeal joint of left thumb, init",Oyoloo,Android,3.2.0,com.elegantthemes.Temp,3.05
+Cardguard,"Pedl cyc driver inj in clsn w statnry object in traf, sqla",Myworks,Android,7.0.1,com.163.Flexidy,13.54
+Asoka,"Idiopathic chronic gout, wrist",Zoonder,Google,9.21,au.com.google.Tres-Zap,8.1
+Gembucket,Nondisp unsp condyle fracture of lower end of right femur,Divavu,Android,0.7.7,com.xing.Tin,3.43
+Flowdesk,"Unsp acute noninfective otitis externa, unspecified ear",Roodel,Google,0.40,jp.ne.hatena.Span,8.86
+Bamity,"Radial collateral ligament sprain of right elbow, subs",Photolist,Android,0.14,com.patch.Veribet,4.2
+Sonair,"Unsp superficial injury of right index finger, subs encntr",Brainlounge,Android,5.26,com.macromedia.Voltsillam,13.85
+Tampflex,"Poisoning by unspecified narcotics, assault, init encntr",Gabtype,Google,0.4.2,gov.usgs.Alphazap,13.79
+Sub-Ex,"Sltr-haris Type IV physeal fracture of r calcaneus, sequela",Yombu,Google,9.0,com.digg.Prodder,1.5
+Greenlam,"Nondisp bicondylar fx l tibia, subs for clos fx w nonunion",Oyondu,Google,0.8.2,jp.ne.hatena.Otcom,4.86
+Voyatouch,Unspecified dislocation of unspecified shoulder joint,Twitterwire,Google,0.8.5,com.netscape.Y-Solowarm,8.05
+Latlux,"Ped on rolr-skt inj in clsn w nonmtr vehicle nontraf, subs",Eayo,Android,1.0,cn.com.china.Treeflex,9.51
+Prodder,"Toxic effect of strychnine and its salts, undetermined",Fiveclub,Apple,7.9.0,edu.si.Flexidy,7.78
+Bigtax,"Puncture wound with foreign body, left ankle",Edgepulse,Android,4.0,com.istockphoto.Lotstring,9.23
+Treeflex,Abnormality of red blood cells,Jaxspan,Apple,5.9.2,com.mayoclinic.Greenlam,4.81
+Sub-Ex,"Chronic kidney disease, stage 2 (mild)",Skimia,Android,0.18,com.mapquest.Lotstring,2.6
+Sonsing,"Rupture of synovium, right ankle",Flipopia,Google,8.74,com.technorati.Sub-Ex,3.9
+Viva,"Pathological fracture, right ulna",Feedmix,Apple,6.2,jp.ne.sakura.Transcof,13.81
+Rank,"Nondisplaced fracture of lunate, unspecified wrist",Mita,Apple,2.34,com.bluehost.Biodex,7.42
+Transcof,"Pnctr w foreign body of finger w damage to nail, init",Nlounge,Apple,0.5.6,com.merriam-webster.Greenlam,4.16
+Otcom,"Migraine w/o aura, not intractable, with status migrainosus",Trupe,Android,5.99,uk.co.dailymail.Cardguard,9.65
+Lotstring,"Complete traum amp at lev betw kn and ankl, l low leg, init",Flashspan,Apple,5.40,com.cnet.Kanlam,5.29
+Daltfresh,"Disp fx of intermed cuneiform of unsp ft, 7thG",Meembee,Apple,8.2,com.cloudflare.Y-Solowarm,14.61
+Ronstring,"Oth injury of musc/fasc/tend at forearm level, left arm",Skaboo,Android,0.42,es.google.Tampflex,7.57
+Pannier,"Disp fx of head of r rad, 7thF",Kamba,Android,0.3.0,org.un.Subin,3.8
+Cardguard,"Injury of right uterine artery, sequela",Tagopia,Apple,0.26,com.geocities.Alphazap,14.78
+Trippledex,"Glaucoma with increased episcleral venous pressure, unsp eye",Photolist,Android,0.26,org.creativecommons.Hatity,12.31
+Sonsing,"Stress fracture, right radius, init encntr for fracture",Cogidoo,Apple,8.93,com.aol.Tempsoft,7.19
+Gembucket,"Occup of bus injured pick-up truck, pk-up/van nontraf, subs",Zoomlounge,Apple,8.8.7,org.altervista.Konklux,11.45
+Sub-Ex,"Unsp injury of blood vessels at lower leg level, unsp leg",Photojam,Google,7.33,au.com.smh.Tresom,13.83
+Keylex,"Burn of other parts of respiratory tract, subs encntr",Voomm,Google,3.6,com.bluehost.Asoka,2.19
+Subin,Chronic tension-type headache,Zazio,Apple,1.7.2,com.jimdo.Konklab,12.82
+Y-find,"Disp fx of trapezoid, right wrist, init for clos fx",Mynte,Android,8.3.6,jp.i2i.Tresom,12.27
+Greenlam,"Malignant neoplasm of nasopharynx, unspecified",Cogibox,Android,7.8,com.shareasale.Bigtax,12.01
+Span,"Toxic effect of arsenic and its compounds, assault",Ntag,Android,1.40,com.buzzfeed.Ventosanzap,8.96
+Flowdesk,"Poisoning by thrombolytic drug, intentional self-harm",Yakijo,Android,0.3.7,gov.epa.Asoka,4.37
+Cardguard,"Toxic effect of unsp organic solvent, self-harm, sequela",Centizu,Apple,4.54,net.earthlink.Daltfresh,4.81
+Zoolab,"Inj extn musc/fasc/tend at forearm level, unsp arm, subs",Browsedrive,Google,5.7,jp.ne.hatena.Tin,8.18
+Redhold,"Nondisp unsp condyle fx lower end of unsp femur, init",Thoughtworks,Google,0.1.5,com.ning.Cardify,8.06
+Sonair,"Lacerat extensor musc/fasc/tend r thm at wrs/hnd lv, init",Dynabox,Apple,0.37,com.posterous.Biodex,12.78
+Biodex,"Other specified injuries of left ankle, subsequent encounter",Yodel,Apple,0.1.5,edu.utexas.Matsoft,5.42
+Transcof,"Unsp pedl cyclst inj in clsn w rail trn/veh nontraf, subs",Leenti,Google,0.2.2,com.hugedomains.Tin,1.05
+Greenlam,"Poisn by electrolytic/caloric/wtr-bal agnt, undet, sequela",Photobean,Apple,6.0,net.clickbank.Solarbreeze,5.97
+Pannier,"Accidental twist by another person, subsequent encounter",Oyoloo,Android,0.2.1,com.tripod.Alpha,11.55
+Home Ing,"Other hypertrophic osteoarthropathy, left upper arm",Fivespan,Android,2.7.7,com.homestead.Tresom,8.2
+Voyatouch,Explosion and rupture of gas cylinder,Buzzbean,Apple,8.0,edu.mit.Temp,8.04
+Konklux,"Toxic effect of unsp substance, accidental, init",Flashdog,Android,4.54,com.jiathis.Otcom,5.91
+Tresom,Other specified acquired deformities of right lower leg,Devify,Android,8.21,com.latimes.Zontrax,9.2
+Y-find,"Abrasion, right ankle, sequela",Babblestorm,Google,6.3.2,com.merriam-webster.Y-find,12.45
+Overhold,Toxic effect of chlorine gas,Kwinu,Google,4.11,org.apache.Y-Solowarm,9.82
+Holdlamis,Chronic lacrimal canaliculitis of left lacrimal passage,Fivespan,Google,2.2,vu.de.Redhold,4.16
+Voltsillam,"Displ transverse fx shaft of unsp fibula, 7thE",Skidoo,Apple,0.41,ca.google.Greenlam,4.4
+Andalax,"Nondisplaced avulsion fracture of left ischium, init",Rooxo,Android,0.2.8,edu.illinois.Zathin,7.06
+Flexidy,Abnormal histolog findings in specimens from resp org/thrx,Mydeo,Google,0.47,pl.home.Opela,4.34
+Fintone,"Poisoning by mineralocorticoids and antag, acc, sequela",Jetwire,Google,0.3.1,com.ezinearticles.Bamity,5.62
+Viva,"Poisoning by antiviral drugs, undetermined, subs encntr",Photojam,Google,0.94,com.acquirethisname.Zoolab,14.43
+Keylex,"Osteonecrosis due to previous trauma, left shoulder",Devpulse,Android,1.4.0,org.networkadvertising.Regrant,7.56
+Ventosanzap,"Unsp trochan fx unsp femr, 7thJ",Voonder,Android,7.2,com.typepad.Fix San,1.99
+Toughjoyfax,Chromhidrosis,Divavu,Android,0.25,gov.ftc.Voyatouch,6.61
+Regrant,"Minor laceration of unspecified carotid artery, init encntr",Gigaclub,Android,1.49,com.ning.Treeflex,7.22
+Ronstring,"Oth chronic hematogenous osteomyelit, left tibia and fibula",Bluezoom,Apple,0.93,edu.tamu.Latlux,11.96
+Greenlam,"Child psychological abuse, suspected, initial encounter",Oba,Android,0.2.7,com.sitemeter.Ventosanzap,6.61
+Aerified,"Drown due to fall/jump fr oth crush unpowr wtrcrft, sequela",Skipstorm,Apple,5.2.5,com.cocolog-nifty.Toughjoyfax,13.42
+Ronstring,"Burn of unspecified degree of unspecified lower leg, sequela",Jazzy,Apple,0.1.5,cn.desdev.Fix San,6.58
+Y-Solowarm,"Hematoma of pinna, left ear",Oloo,Android,1.1.4,com.webnode.Aerified,9.76
+Trippledex,"Asphyx d/t mech threat to breathe due to oth cause, slf-hrm",Rhynoodle,Google,3.3.3,com.prweb.Home Ing,11.43
+Treeflex,"Contusion of right thumb with damage to nail, subs encntr",Yodel,Apple,2.96,net.cpanel.Domainer,11.35
+Flexidy,"Unsp pre-exist diabetes in pregnancy, chldbrth and the puerp",Leexo,Google,7.14,com.tripod.Flexidy,12.11
+It,"Laceration of unsp msl/tnd at ank/ft level, right foot, subs",Skaboo,Apple,7.6,jp.shop-pro.Voltsillam,1.36
+Mat Lam Tam,"Burn first deg mult right fngr (nail), not inc thumb, subs",Oodoo,Android,0.8.5,ru.rambler.Konklab,8.83
+Prodder,Other contact with cow,Kamba,Android,0.97,com.blogspot.Cookley,5.19
+It,Corrosion of first degree of unspecified shoulder,Devshare,Apple,8.9.9,com.scientificamerican.Overhold,7.83
+Tresom,"Prsn outsd pk-up/van inj in clsn w 2/3-whl mv in traf, init",Gabcube,Google,0.5.2,com.huffingtonpost.Stronghold,7.15
+Andalax,"Type 2 diab with severe nonp rtnop with macular edema, unsp",Yakidoo,Apple,1.7.5,com.lulu.Daltfresh,2.03
+Daltfresh,"Pauciarticular juvenile rheumatoid arthritis, left shoulder",Trilia,Android,2.2,edu.columbia.Alpha,14.21
+Bitwolf,Oth sexual dysfnct not due to a sub or known physiol cond,Oyonder,Android,0.2.7,uk.co.timesonline.Prodder,10.45
+Zaam-Dox,Displaced fracture of medial condyle of right humerus,Browseblab,Android,0.71,org.archive.Zontrax,10.08
+Bitwolf,"Displaced comminuted fracture of right patella, init",Bubblebox,Apple,0.7.5,com.intel.Span,2.78
+Domainer,"Sprain of MCP joint of right ring finger, subs",Kwinu,Apple,4.5,br.com.uol.Voltsillam,2.42
+Ventosanzap,"Sltr-haris Type I physeal fx unspecified metatarsal, 7thG",Twinte,Google,7.5.3,edu.uiuc.Opela,1.1
+Span,"Oth injury of vein at forearm level, unsp arm, subs encntr",Devpoint,Apple,0.11,it.paginegialle.Veribet,4.58
+Ventosanzap,Agents primarily affecting the cardiovascular system,Trudeo,Apple,0.40,com.addtoany.Flexidy,5.23
+Bigtax,"Burn of unsp deg mult sites of left ankle and foot, subs",Shuffletag,Android,7.8.8,com.squarespace.Zaam-Dox,3.38
+Alpha,"Strain of musc/fasc/tend prt biceps, unsp arm, init",Skyvu,Apple,0.70,com.washingtonpost.Bitchip,4.08
+Redhold,"Epidural hemorrhage w LOC of 31-59 min, subs",Eamia,Apple,2.4.9,com.foxnews.Alphazap,9.32
+Solarbreeze,"Toxic effect of ingested (parts of) plant(s), accidental",Dynabox,Apple,0.84,com.dedecms.Opela,13.79
+Flexidy,Contusion of upper arm,Geba,Google,0.81,com.mozilla.It,1.82
+Voyatouch,"Familial chondrocalcinosis, right hand",Skynoodle,Android,1.1,jp.shop-pro.Cookley,12.98
+Tresom,Calculus of bile duct w/o cholangitis or cholecyst w/o obst,Realcube,Apple,8.26,com.nytimes.Stim,6.15
+Lotlux,"Adhes due to fb acc left in body fol remov cath/pack, sqla",Rhybox,Apple,0.65,com.etsy.Stim,4.66
+Hatity,"Nondisplaced fracture of neck of scapula, right shoulder",Realcube,Google,9.86,com.squarespace.Wrapsafe,6.11
+Bigtax,Pressure ulcer of right heel,Buzzshare,Google,0.5.0,edu.illinois.Aerified,4.22
+Bigtax,"Unsp inj long flxr musc/fasc/tend l thm at wrs/hnd lv, subs",Yakitri,Apple,3.8,com.wikia.Zoolab,4.88
+Viva,Oth intraop and postproc comp and disorders of nervous sys,Skaboo,Apple,0.78,com.xrea.Lotstring,1.38
+Konklux,"Disp fx of med condyle of unsp femr, 7thB",Topicstorm,Google,2.57,com.mysql.Rank,11.3
+Trippledex,Burn of unsp degree of multiple sites of unsp ankle and foot,Layo,Apple,5.74,com.imgur.Tempsoft,7.54
+Zaam-Dox,"Occupant (driver) of 3-whl mv injured in unsp traf, subs",Yodoo,Apple,9.2,com.sciencedirect.Stim,6.0
+Lotstring,"Activity, cheerleading",Kare,Google,8.8,com.businessweek.Fixflex,13.74
+Y-find,Motorcycle rider injured in collision w hv veh,Yodoo,Apple,4.96,edu.mit.Mat Lam Tam,2.09
+Biodex,"Displ oblique fx shaft of unsp ulna, 7thH",Vidoo,Google,9.6,jp.co.google.It,2.54
+Vagram,"Inj extensor musc/fasc/tend thmb at wrs/hnd lv, sequela",Dynabox,Android,9.33,org.gnu.Solarbreeze,11.61
+Rank,"Mech compl of indwelling urethral catheter, sequela",Photobean,Google,3.08,com.salon.Namfix,1.64
+Aerified,Displaced fracture of lateral end of left clavicle,Topiclounge,Apple,8.7.3,com.answers.Quo Lux,5.93
+Toughjoyfax,"Unsp soft tissue disord rel to use/pressure, unsp forearm",Divape,Android,1.7.4,com.purevolume.Stronghold,6.49
+Bitchip,"Sprain of tibiofibular ligament of unsp ankle, subs encntr",Avamba,Google,0.96,com.cbsnews.Sonsing,6.67
+Gembucket,Displaced fracture of posterior column of left acetabulum,Eare,Apple,2.03,com.usnews.Namfix,14.75
+Gembucket,"Nondisp fx of neck of scapula, left shoulder, init",Skimia,Google,9.63,com.studiopress.Cardify,9.88
+Bitwolf,"Unspecified laceration of spleen, sequela",Zoombeat,Android,0.6.5,com.reverbnation.Zoolab,2.09
+Ventosanzap,"Occup of hv veh inj in nonclsn trnsp acc in traf, sequela",Skilith,Apple,6.0.2,org.slashdot.Ventosanzap,6.6
+Zontrax,Myringotomy tube(s) status,Wordpedia,Apple,0.33,us.icio.Prodder,14.94
+Stringtough,"Prsn brd/alit a car injured in collision w car, init",Jabbersphere,Google,0.3.9,com.microsoft.Zontrax,11.93
+It,Anemia due to other disorders of glutathione metabolism,DabZ,Google,2.5,com.howstuffworks.Overhold,8.14
+Bamity,"Nondisp fx of posterior process of unsp talus, init",Abatz,Apple,0.5.2,org.pbs.Alphazap,7.29
+Tresom,"Pedl cyc driver injured in clsn w hv veh nontraf, sequela",Yakitri,Google,0.7.4,com.ted.Andalax,3.69
+Alphazap,"Nondisp Maisonneuve's fx unsp leg, 7thC",Kazio,Google,0.3.1,com.addthis.Domainer,14.91
+Lotstring,Oth school as the place of occurrence of the external cause,Wikido,Google,2.07,com.digg.Cardguard,6.86
+Home Ing,"Corrosion of first degree of lower back, initial encounter",Realmix,Android,0.12,com.angelfire.Trippledex,2.81
+Prodder,"Striking against or struck by other objects, init encntr",Gigazoom,Google,0.5.1,com.artisteer.Alphazap,2.56
+Regrant,Encounter for screening for infec/parastc diseases,Teklist,Android,8.0.7,com.sitemeter.Vagram,6.93
+Gembucket,"Nondisp fx of prox phalanx of l great toe, 7thP",Youbridge,Apple,0.83,au.gov.privacy.Subin,3.81
+Redhold,Neoplasm of uncertain behavior of larynx,Thoughtsphere,Apple,1.2.3,org.gmpg.Tin,3.24
+Lotstring,"Injury of unspecified nerves of neck, subsequent encounter",Brainverse,Apple,9.8,com.ycombinator.Flexidy,3.11
+Bitwolf,"Labyrinthine fistula, left ear",Fatz,Android,3.3.9,com.posterous.Ronstring,6.87
+Cardguard,"Inj oth blood vessels at ankle and foot level, unsp leg",Edgewire,Android,5.3.0,com.usatoday.Tampflex,5.95
+Stronghold,Idiopathic hypotension,Livetube,Android,4.3.8,com.deliciousdays.Latlux,8.09
+Voyatouch,Diffuse acute (reversible) ischemia of small intestine,Roomm,Google,5.84,com.ebay.Zathin,12.54
+Gembucket,"Contusion of left thigh, initial encounter",Eabox,Google,2.3.3,com.oakley.Tin,12.63
+Zoolab,"Other interstitial and deep keratitis, bilateral",Geba,Apple,2.0,com.friendfeed.Temp,8.37
+It,"Unsp fx upper end of unsp tibia, init for opn fx type I/2",DabZ,Google,1.2,com.webmd.Redhold,8.72
+Opela,"Injury of l int carotid, intcr w LOC of 6 hours to 24 hours",Dabvine,Google,8.52,com.instagram.Y-find,5.85
+Temp,"Noise effects on inner ear, bilateral",Yakitri,Google,5.2.2,com.omniture.Ventosanzap,1.81
+Temp,"Other powered aircraft accidents injuring occupant, sequela",Oozz,Android,7.4.5,com.xrea.Cookley,10.12
+Pannier,Acute lymphangitis of back [any part except buttock],Livefish,Apple,8.2.3,com.baidu.Ventosanzap,6.37
+Alpha,"Other instability, left knee",Browsedrive,Apple,0.26,ru.liveinternet.Aerified,7.07
+Daltfresh,"Nondisp suprcndl fx w/o intrcndl extn low end l femr, 7thD",Omba,Google,0.65,com.sciencedaily.Zaam-Dox,13.64
+Solarbreeze,Open bite of right thumb with damage to nail,Camimbo,Google,5.99,jp.or.plala.Stronghold,1.6
+Y-Solowarm,Torus fracture of upper end of unspecified fibula,Brainbox,Android,7.6.6,com.friendfeed.Sonair,14.97
+Pannier,"Displ avuls fx tuberosity of r calcaneus, 7thG",Brainsphere,Google,0.7.4,com.skype.Temp,5.51
+Stringtough,"Cystic meniscus, other medial meniscus, left knee",Flashset,Android,0.4.3,cz.phoca.Biodex,6.64
+Asoka,Oth athscl nonautologous bio bypass of the extremities,Cogibox,Apple,1.80,uk.co.telegraph.Duobam,8.55
+Bitwolf,"Occupant of streetcar injured in clsn w oth object, init",Oloo,Android,4.5,com.reverbnation.Lotstring,9.2
+Alpha,"Intermittent hydrarthrosis, right elbow",Zava,Google,7.52,edu.utexas.Voyatouch,6.28
+Fintone,Salter-Harris Type I physeal fracture of right metatarsal,Aimbo,Google,7.5,cn.com.sina.Daltfresh,6.19
+Fixflex,"Poisoning by other antidepressants, assault, init encntr",Realbuzz,Apple,8.3.6,int.who.Pannier,3.54
+Ronstring,"Accidental discharge of shotgun, initial encounter",Feednation,Android,2.1.5,com.feedburner.Voyatouch,9.11
+Mat Lam Tam,"Unsp fracture of right lower leg, init for clos fx",Youbridge,Google,6.4.5,com.bravesites.Kanlam,6.44
+Pannier,"Disp fx of glenoid cav of scapula, unsp shldr, 7thD",Wikivu,Google,5.6.3,gov.epa.Zamit,14.97
+Tresom,"Unspecified retinal detachment with retinal break, left eye",Yoveo,Google,0.2.9,com.mtv.Flexidy,3.89
+Daltfresh,"Fx superior rim of right pubis, subs for fx w nonunion",Abata,Google,6.3,com.nymag.Trippledex,7.3
+Zathin,"Other fracture of right great toe, sequela",Meedoo,Android,0.97,edu.harvard.Bytecard,2.12
+Span,"Other specified injury of thoracic aorta, subs encntr",Edgeblab,Android,3.39,com.ezinearticles.Zaam-Dox,7.43
+Keylex,"Nondisp fx of lateral condyle of l tibia, 7thQ",JumpXS,Google,0.17,com.webs.Viva,4.72
+Solarbreeze,"Poisn by oth drug aff the autonm nrv sys, slf-hrm, sequela",Brainsphere,Apple,0.6.1,com.homestead.Toughjoyfax,3.48
+Tempsoft,"Oth injury of right internal jugular vein, sequela",Gigazoom,Android,2.74,uk.co.telegraph.Alpha,3.67
+Alphazap,"Deaf nonspeaking, not elsewhere classified",Feedfish,Apple,1.58,jp.japanpost.Treeflex,12.57
+Opela,"Pathological fracture in neoplastic disease, pelvis",Pixonyx,Android,5.1,fr.free.Temp,9.36
+Asoka,External constriction of left hand,Quimba,Android,3.04,br.com.uol.Sonsing,12.38
+Domainer,"Dvtrcli of intest, part unsp, w perf and abscess w/o bleed",Brightdog,Apple,9.74,jp.ameblo.Fintone,5.36
+Opela,Oth diabetes mellitus with other oral complications,Meejo,Android,0.22,com.vimeo.Mat Lam Tam,13.65
+Cardguard,"Wear of artic bearing surface of unsp int prosth joint, subs",Bubblebox,Android,9.77,cn.google.Bitwolf,2.64
+Redhold,"Corrosion of second degree of nose (septum), sequela",Trupe,Google,0.12,me.about.Transcof,1.36
+Prodder,"Unsp fx lower end of unsp ulna, subs for clos fx w nonunion",Photolist,Google,2.9.8,com.printfriendly.Biodex,8.47
+Hatity,"Legal intervnt w injury by rubr bulet, suspect inj, sequela",Npath,Google,0.8.9,com.fotki.Tin,14.02
+Fix San,"Disorder of penis, unspecified",Wordify,Android,8.1.1,com.paypal.Andalax,4.02
+Hatity,"Underdosing of anticoagulants, initial encounter",Devpulse,Apple,3.0.4,com.com.Mat Lam Tam,6.37
+Ventosanzap,"Poisn by cardi-stim glycos/drug simlar act, assault, init",Jaxworks,Google,0.80,com.parallels.Keylex,10.21
+Rank,Sltr-haris Type IV physeal fx upper end of unsp tibia,Gigashots,Google,0.53,com.addtoany.Subin,8.1
+Namfix,"Other superficial bite of breast, left breast",Jabbersphere,Google,4.3,com.etsy.Latlux,2.61
+Regrant,"Other contact with chicken, subsequent encounter",Voonix,Google,4.86,edu.illinois.Konklux,14.64
+Bigtax,"Retinopathy of prematurity, stage 3, unspecified eye",Vitz,Android,0.9.8,uk.co.telegraph.Ventosanzap,10.14
+Sonsing,"Traumatic amputation of other parts of head, init encntr",Quimba,Google,9.1.9,com.seattletimes.Tempsoft,13.25
+Sonair,"Poisoning by unsp general anesthetics, intentional self-harm",Dynabox,Google,8.0,com.tinyurl.Regrant,5.68
+Alpha,"Assault by push/place victim in front of motor vehicle, init",Babbleblab,Google,2.8.7,com.foxnews.Opela,4.42
+Treeflex,"Oth comp of fb acc left in body fol oth procedure, sequela",Fivespan,Android,1.7,com.nymag.Flexidy,10.86
+Redhold,"Toxic effect of methanol, undetermined, sequela",Twinte,Apple,2.3,net.a8.Konklux,3.2
+Bytecard,"Bitten by goose, subsequent encounter",Wordify,Apple,5.7,com.washingtonpost.Stim,7.36
+Greenlam,"Unspecified physeal fracture of phalanx of left toe, 7thK",Photobug,Android,0.65,com.mac.Cardguard,4.91
+Flowdesk,"Disorder of peritoneum, unspecified",Photolist,Google,0.9.9,com.printfriendly.Cardify,12.99
+Sonsing,"Poisoning by unsp drugs aff the autonm nervous sys, assault",Jabberbean,Android,5.69,com.pinterest.Lotstring,2.9
+Andalax,"Displ avuls fx (chip fracture) of l talus, 7thG",Pixonyx,Android,0.2.3,net.seesaa.Tampflex,4.54
+Voltsillam,"Other non-follicular lymphoma, spleen",Aibox,Android,2.3,es.google.Zoolab,12.84
+Cardguard,Inhalation of steam and other hot vapors,Eabox,Google,0.4.7,com.cloudflare.Toughjoyfax,3.52
+Andalax,"Enteropathic arthropathies, left elbow",Twitterbridge,Android,2.97,org.archive.Lotlux,7.99
+Holdlamis,"Wear of artic bearing surface of int prosth r knee jt, init",Roodel,Android,0.41,com.storify.Fintone,7.12
+Y-Solowarm,"Otitis media, unspecified, left ear",Oyonder,Google,5.3.9,com.bloomberg.It,10.48
+Cardguard,"Terorsm w explosn of marine weap, publ sfty offcl inj, init",Twinte,Android,8.1,com.statcounter.Regrant,1.82
+Viva,Unspecified pre-existing hypertension complicating pregnancy,Buzzster,Android,0.6.2,com.globo.Zoolab,9.76
+Biodex,"Path fx in oth disease, r ankle, subs for fx w delay heal",Voonte,Apple,0.7.5,gov.census.Holdlamis,3.0
+Matsoft,Burn of unspecified degree of back of right hand,Blognation,Android,2.9.9,gov.ftc.Bitwolf,9.63
+Gembucket,"Contusion of adrenal gland, initial encounter",Eazzy,Android,0.32,com.typepad.Stringtough,4.34
+Vagram,"Nondisp fx of med condyle of l femr, 7thP",Yodo,Google,5.7,com.netlog.Stringtough,5.77
+Home Ing,"Colles' fx r radius, subs for opn fx type I/2 w malunion",Jaxbean,Android,2.4,net.comcast.Solarbreeze,8.26
+Wrapsafe,Oth traumatic spondylolisthesis of second cervical vertebra,Nlounge,Google,8.02,int.who.Toughjoyfax,8.04
+Transcof,"Oth soft tissue disord rel to use/pressure, unsp upper arms",Quatz,Android,7.8.9,au.com.google.Transcof,14.87
+Sonair,"Displ seg fx shaft of r femr, 7thN",Izio,Apple,5.31,com.netlog.Treeflex,9.69
+Stim,"Displ spiral fx shaft of rad, r arm, 7thQ",Skimia,Apple,6.1,com.sfgate.Aerified,7.67
+Vagram,Cereb infrc d/t unsp occls or stenos of right ant cereb art,Trudeo,Android,7.6.9,net.themeforest.Biodex,7.47
+Ventosanzap,"Spontaneous rupture of flexor tendons, thigh",Avaveo,Apple,3.3,net.cpanel.Lotstring,4.33
+Bytecard,"Puncture wound with foreign body, left hip",Quatz,Google,0.80,com.skype.Daltfresh,11.5
+Biodex,"Displ suprcndl fx w/o intrcndl extn low end l femr, 7thN",Geba,Android,0.99,com.addthis.Bigtax,10.41
+Flowdesk,"Unsp injury of popliteal artery, unspecified leg, sequela",Devshare,Google,0.51,tv.ustream.Fintone,4.71
+Domainer,"Driver injured in collision w oth mv in traf, init",Yotz,Android,9.5.1,org.gnu.Regrant,8.17
+Lotstring,"War op involving explosion of guided missile, milt, subs",Voolith,Google,0.1.8,gov.ed.Sub-Ex,10.48
+Bigtax,"Oth fx head/neck of right femur, subs for clos fx w nonunion",Mita,Google,1.3,com.netscape.Otcom,4.71
+Cardify,"Marfan's syndrome, unspecified",Flipopia,Android,6.56,com.twitter.Tampflex,4.05
+Aerified,"Other specified effects of external causes, sequela",Thoughtbeat,Google,0.57,com.symantec.Span,8.7
+Regrant,Cellulitis of abdominal wall,Skyba,Apple,0.89,com.com.Kanlam,8.26
+Voyatouch,Dietary folate deficiency anemia,Topicshots,Apple,8.2.7,net.earthlink.Bitchip,10.17
+Zontrax,"Driver of pk-up/van inj pk-up truck, pk-up/van in traf, sqla",Skilith,Apple,0.86,net.clickbank.Regrant,8.96
+Veribet,"Open bite of unsp finger without damage to nail, init encntr",Tagfeed,Apple,0.9.4,com.arstechnica.Greenlam,2.36
+Aerified,"Injury of unsp nerve at hip and thi lev, right leg, sequela",Jabberbean,Google,9.18,com.weebly.Overhold,4.5
+Namfix,"Unspecified disorder of ear, bilateral",Demizz,Apple,0.8.3,com.squidoo.Bitwolf,8.24
+Tampflex,"Injury of other nerves at forearm level, left arm, subs",Zoovu,Google,3.95,com.dagondesign.Zontrax,1.15
+Cardify,"Obstructed labor due to fetopelvic disproportion, unsp",Feedfire,Apple,0.9.0,com.chicagotribune.Sub-Ex,9.47
+Temp,"Bennett's fracture, right hand, sequela",Mydeo,Android,1.47,edu.illinois.Gembucket,2.56
+Fixflex,Abnormal glucose,Ainyx,Apple,9.7,uk.ac.ox.Namfix,1.79
+Sonsing,"Nondisp fx of sternal end r clavicle, 7thD",Jaxnation,Android,2.0.3,net.jalbum.Subin,2.09
+Aerified,"Brkdwn implanted electronic stimulator of nervous sys, init",Zooxo,Google,9.28,com.xing.Cardguard,12.45
+Zontrax,Malignant neoplasm of other specified male genital organs,Thoughtmix,Android,9.7.6,com.topsy.Treeflex,9.39
+Home Ing,"Pnctr w fb of r mid finger w damage to nail, sequela",Innojam,Google,3.5.8,com.prweb.Biodex,10.06
+Asoka,"Unsp injury of extn musc/fasc/tend at forarm lv, left arm",Zoovu,Google,0.7.6,us.icio.Bitchip,7.45
+Kanlam,"Exposure keratoconjunctivitis, unspecified eye",Youfeed,Google,4.7,gov.irs.Flowdesk,14.49
+Vagram,"Oth injuries of unsp wrist, hand and finger(s), init encntr",Trilia,Android,1.1.6,mil.army.Bitchip,13.28
+Tampflex,"Contusion of anus, initial encounter",Gigashots,Android,1.26,com.netscape.Wrapsafe,7.05
+Zoolab,"Subluxation of distal radioulnar joint of left wrist, init",Quinu,Google,0.2.3,edu.cornell.Quo Lux,3.89
+Bytecard,"Corros second degree of single l finger except thumb, subs",Divape,Android,9.55,com.yellowpages.Mat Lam Tam,7.86
+Temp,"Contus/lac cereb, w LOC of 31-59 min, sequela",Lazzy,Google,3.4.2,com.pcworld.Domainer,10.56
+Aerified,"Accidental malfunction of other larger firearm, sequela",Dabvine,Android,0.4.2,com.myspace.Zontrax,11.9
+Gembucket,"Poisoning by loop diuretics, undetermined, subs encntr",Jabbercube,Apple,4.8.3,com.nbcnews.Veribet,3.77
+Lotstring,"Disp fx of olecran pro w/o intartic extn r ulna, 7thN",Talane,Apple,9.09,com.yellowbook.Lotstring,7.99
+Ronstring,"Person injured in unsp nonmotor-vehicle acc, nontraf, init",Cogilith,Android,7.3.4,org.pbs.Konklab,3.65
+Konklux,"Strain flexor musc/fasc/tend at forarm lv, right arm, sqla",Zava,Apple,1.7,uk.co.independent.Kanlam,1.92
+Stim,"Glaucoma secondary to drugs, right eye, moderate stage",DabZ,Apple,1.9,com.live.Voltsillam,6.47
+Konklab,Generalized abdominal rigidity,Feednation,Android,0.71,jp.co.infoseek.Overhold,12.95
+Tempsoft,"Corrosion of unspecified degree of left thigh, subs encntr",Oyondu,Apple,9.00,com.taobao.Temp,4.69
+Prodder,NB jaund due to drugs or toxins transmitted from mother,Photojam,Apple,0.53,net.a8.Y-find,13.82
+Toughjoyfax,Degenerative myopia,Dabtype,Apple,9.81,com.istockphoto.Latlux,2.94
+Domainer,"Unsp injury of ulnar art at wrs/hnd lv of left arm, sequela",Youopia,Google,0.18,com.squarespace.Tampflex,5.61
+Lotlux,"Corrosion of unsp degree of right hand, unsp site, subs",Zoomdog,Apple,6.59,com.paypal.Hatity,3.11
+Span,Laceration of gallbladder,Yakijo,Google,9.6.5,uk.co.bbc.Lotlux,4.23
+Y-Solowarm,"Inj cutan sensory nerve at forarm lv, right arm, sequela",Plambee,Google,5.57,com.cnn.Tampflex,3.69
+Veribet,"Other osteonecrosis, right femur",Demizz,Android,0.46,com.phpbb.Sonair,8.72
+Alpha,"Tox eff of corrosv alkalis & alk-like substnc, slf-hrm, sqla",Twimm,Google,1.20,com.cyberchimps.Otcom,2.52
+Konklux,Unspecified disturbances of smell and taste,Skippad,Android,0.39,com.sfgate.Span,7.55
+Hatity,Other local lupus erythematosus,Tagpad,Apple,1.50,ru.yandex.Mat Lam Tam,9.44
+Biodex,Contact with hay derrick,Eayo,Android,2.4.9,uk.co.ebay.Tampflex,11.68
+Lotlux,"Prsn brd/alit a car injured in collision w 2/3-whl mv, init",Gabcube,Apple,4.75,com.delicious.Ronstring,5.66
+Tresom,"Corrosion of first degree of right knee, initial encounter",Youbridge,Google,0.5.3,ru.yandex.Wrapsafe,3.63
+Flowdesk,"Unspecified injury of other part of small intestine, sequela",Wordware,Android,8.99,edu.berkeley.Tresom,9.74
+Lotlux,Puncture wound w/o foreign body of thumb w/o damage to nail,Edgeblab,Android,7.7.7,com.booking.Prodder,5.54
+Span,Underdosing of other antipsychotics and neuroleptics,Snaptags,Apple,0.6.0,com.jiathis.Temp,4.94
+Regrant,Oth symptoms and signs involving the dgstv sys and abdomen,Dazzlesphere,Google,9.4,gov.senate.Aerified,2.93
+Solarbreeze,"Nondisp fx of fourth metatarsal bone, right foot, init",Minyx,Android,1.82,jp.co.yahoo.Redhold,3.0
+Overhold,Malignant neoplasm of ovary,Feedfish,Google,0.59,org.dyndns.Matsoft,5.98
+Holdlamis,"Toxic eff of venom of African and Asian snake, asslt, init",Eabox,Google,4.4,com.bing.Fixflex,10.42
+Quo Lux,"Complete placenta previa NOS or without hemor, unsp tri",Photobean,Google,6.0.0,com.phpbb.It,12.95
+Zathin,"Accidental handgun discharge, initial encounter",Mynte,Apple,0.31,com.microsoft.Ventosanzap,14.47
+Tres-Zap,"Unsp inj msl/fasc/tnd post grp at thi lev, left thigh, init",Avavee,Google,9.74,com.about.Tres-Zap,3.52
+Holdlamis,"Unsp injury of musc/tend at lower leg level, left leg, init",Aivee,Google,4.27,ca.google.Zontrax,5.67
+Zathin,"Dislocation of jaw, right side, subsequent encounter",Blogpad,Apple,4.9,com.live.Voltsillam,11.65
+Zaam-Dox,"Preterm labor w preterm delivery, unsp trimester, unsp",JumpXS,Apple,7.5.7,com.studiopress.Stronghold,12.44
+Prodder,Bovine stomatitis,Topiclounge,Android,3.8,fr.pagesperso-orange.Vagram,6.54
+Vagram,"Displ transverse fx shaft of humer, unsp arm, 7thK",Shufflebeat,Google,7.6,com.surveymonkey.Y-Solowarm,13.41
+Stringtough,"Nondisp pilon fx left tibia, init for opn fx type 3A/B/C",Edgeify,Apple,0.36,com.google.Konklux,14.11
+Span,"Adverse effect of unsp fibrinolysis-affecting drugs, sequela",Oyoyo,Apple,3.5.5,net.ovh.Greenlam,1.89
+Latlux,"Strain flxr musc/fasc/tend l little fngr at forarm lv, sqla",Feedfish,Apple,0.22,jp.ne.goo.Rank,4.18
+Tampflex,"Crushing injury of right hip with thigh, subs encntr",Rhybox,Google,4.38,com.pcworld.Y-Solowarm,1.83
+Viva,"Ped w convey injured pick-up truck, pk-up/van nontraf, subs",Fatz,Apple,0.7.6,ru.vkontakte.Job,7.27
+Hatity,"Poisoning by unspecified anesthetic, assault, sequela",Yodoo,Android,0.57,com.cnet.Matsoft,1.03
+Span,"Unspecified open wound of left shoulder, sequela",Agivu,Android,0.72,la.51.Aerified,5.88
+Zaam-Dox,"Sltr-haris Type II physeal fx unspecified calcaneus, sequela",Livefish,Google,2.2.3,ch.admin.Cardguard,7.59
+Ventosanzap,"Poisoning by calcium-channel blockers, assault",Thoughtworks,Google,0.54,ch.admin.It,1.24
+Job,"Oth fx lower end of l femur, subs for clos fx w delay heal",Divape,Android,0.34,au.com.smh.Regrant,14.63
+Sonair,"Oth fx shaft of rad, unsp arm, 7thF",Brainbox,Apple,4.45,com.ucoz.Duobam,5.67
+Span,Nondisp fx of medial phalanx of right lesser toe(s),Browsecat,Google,0.77,la.51.Daltfresh,2.76
+Alpha,"Oth injury of axillary or brachial vein, left side",Dazzlesphere,Google,0.31,uk.co.timesonline.Vagram,2.43
+Andalax,"Pasngr on bus inj in clsn w statnry object in traf, sequela",Meejo,Google,0.97,com.tripod.Bitwolf,5.79
+Domainer,Corrosion of unspecified degree of chest wall,Oba,Android,0.37,com.nymag.Zoolab,12.31
+Tresom,"Intrinsic cartilagenous obst of eustach tube, bilateral",Mudo,Google,7.24,eu.europa.Rank,9.23
+Zathin,Leukoplakia of vulva,Camimbo,Google,1.0,org.dyndns.Pannier,5.38
+Overhold,Embolism due to nervous system prosth dev/grft,Cogidoo,Android,7.5.4,com.phpbb.Bamity,11.27
+Bytecard,"Toxic effect of carb monx from unsp source, undetermined",Jazzy,Apple,8.48,com.nba.Daltfresh,1.22
+Lotstring,"Laceration of superficial vein at shldr/up arm, right arm",Bluejam,Apple,7.6,gov.noaa.Namfix,9.18
+Tampflex,"Nondisp fx of neck of unsp radius, init for opn fx type I/2",Skipstorm,Android,2.1.9,gov.hud.Vagram,6.32
+Kanlam,"Displaced unsp fx unsp great toe, subs for fx w malunion",Fivespan,Google,0.8.2,vu.de.Bitchip,9.1
+Hatity,"Nondisp transverse fx l patella, 7thH",Realblab,Google,0.9.6,com.baidu.Bamity,3.96
+Bamity,"Unsp fx upr end l tibia, 7thR",Rhynyx,Android,9.28,jp.geocities.Zamit,9.63
+Flexidy,"Other fish poisoning, intentional self-harm, sequela",Zooveo,Apple,9.2.0,com.wsj.Biodex,10.39
+Stringtough,"Primary blast injury of fallopian tube, unsp, init encntr",Brightdog,Google,0.33,net.earthlink.Solarbreeze,14.81
+Ventosanzap,"Frostbite with tissue necrosis of left wrist, subs encntr",Browsedrive,Android,0.5.8,com.cloudflare.Bitwolf,11.74
+Pannier,"Unsp mtrcy rider injured in collision w oth mv in traf, init",Gevee,Google,6.9,net.seesaa.Matsoft,10.48
+Domainer,"Other superficial bite of unspecified elbow, init encntr",Twinte,Google,1.20,int.who.Mat Lam Tam,1.3
+Daltfresh,"Expsr to rdct in atmos pressr wh surfc fr underground, init",Quimm,Google,3.8.6,com.springer.Quo Lux,9.56
+Span,"Partial loss of teeth due to oth cause, class III",Flipopia,Google,0.5.6,org.wikipedia.Konklab,7.76
+Zathin,"Poisoning by glucocort/synth analog, accidental, sequela",Oyoyo,Android,2.56,ca.cbc.Konklux,9.13
+Fixflex,Inj unsp blood vessel at wrist and hand of left arm,Quaxo,Android,0.63,fr.free.Keylex,2.82
+Job,"External constriction of left shoulder, initial encounter",Devshare,Android,8.2,org.un.Sonsing,2.05
+Flexidy,"Blister of unsp external genital organs, male, subs",Izio,Apple,0.7.7,com.blogtalkradio.Trippledex,6.3
+Rank,"Supervision of elderly primigravida, third trimester",Babbleopia,Apple,1.6,com.howstuffworks.Ronstring,2.55
+Biodex,"Regular astigmatism, left eye",Oyope,Google,0.38,com.arstechnica.Asoka,11.67
+It,"Unsp intracap fx left femur, subs for clos fx w nonunion",Feedmix,Apple,0.10,it.tuttocitta.Tin,3.06
+Overhold,"Insect bite (nonvenomous) of throat, initial encounter",Buzzster,Android,0.34,com.163.Asoka,12.37
+Aerified,"Unsp slipped upper femoral epiphysis, unsp hip",Youtags,Google,3.9.8,co.g.Gembucket,10.13
+Tampflex,"Preterm labor second tri w preterm delivery second tri, oth",Jabbersphere,Apple,5.4.6,uk.co.dailymail.Alpha,8.71
+Kanlam,"Exposure to other specified smoke, fire and flames, sequela",Digitube,Apple,0.2.4,jp.ne.biglobe.Otcom,9.46
+Duobam,"Occup of special construct vehicle injured nontraf, sequela",Skajo,Google,7.30,com.naver.Overhold,14.74
+Tampflex,"Oth injury of blood vessel of right thumb, sequela",Nlounge,Google,0.45,com.booking.Span,8.9
+Bamity,"Lac w/o fb of r frnt wl of thorax w penet thor cavity, subs",Tazzy,Google,4.6.0,com.mapquest.Sonsing,13.89
+Cardify,"Poisoning by stimulant laxatives, accidental, subs",Shuffledrive,Google,4.8,com.wiley.Voyatouch,8.5
+Holdlamis,Intraoperative cardiac arrest,Bluejam,Google,3.8,com.mapquest.Domainer,11.35
+Tempsoft,"Oth fx of lower end left radius, init for opn fx type 3A/B/C",Centidel,Google,0.56,gov.irs.Tin,2.34
+Vagram,"Radiculopathy, cervical region",Feedspan,Google,7.82,jp.exblog.Tempsoft,7.33
+Quo Lux,Nondisplaced apophyseal fracture of unspecified femur,Layo,Android,0.8.9,com.wikispaces.Ventosanzap,4.3
+Tin,"Unspecified open wound, right lower leg, subs encntr",Yamia,Apple,5.5.9,org.simplemachines.Domainer,10.47
+Fix San,Other lesions of median nerve,Realcube,Android,7.9,cn.desdev.Zathin,5.06
+Alphazap,Unspecified pterygium of left eye,Flashdog,Apple,0.84,uk.co.123-reg.Holdlamis,8.76
+Ventosanzap,"Nondisp fx of hook process of hamate bone, l wrist, sequela",Ainyx,Google,5.3,co.g.Regrant,4.06
+Ronstring,Sprain of sternum,Mynte,Google,7.8.7,ru.odnoklassniki.Y-find,7.81
+Bamity,"Glaucoma secondary to eye inflam, right eye, stage unsp",Topicshots,Apple,7.3,com.tinypic.Vagram,7.12
+Prodder,"Nondisp spiral fx shaft of rad, r arm, 7thE",Skyndu,Android,6.6,com.issuu.Treeflex,10.54
+Sonair,Burn of third degree of unspecified lower leg,Eazzy,Android,1.7.9,com.netscape.Lotstring,4.8
+Tin,"Unsp fx lower end of unsp humerus, subs for fx w nonunion",Ozu,Apple,5.8.3,com.shutterfly.Temp,7.52
+Tampflex,"Other anterior subluxation of left hip, sequela",Eidel,Android,0.35,com.elegantthemes.Tin,4.27
+Tresom,"Post subcapsular polar infantile and juv cataract, r eye",Skyndu,Android,1.4,edu.mit.Zoolab,4.63
+Tempsoft,Other injury of uterus,Janyx,Android,5.5.2,de.1und1.Greenlam,3.66
+Toughjoyfax,"Idiopathic gout, left wrist",Realblab,Google,0.9.5,edu.berkeley.Duobam,12.05
+Regrant,"Nondisp transverse fx shaft of r ulna, 7thH",Podcat,Android,0.4.6,com.angelfire.Konklab,6.84
+Subin,"Mtrcy driver inj in clsn w nonmtr vehicle in traf, sequela",Mymm,Apple,1.78,com.newyorker.Keylex,9.69
+Opela,"Idiopathic chronic gout, right hip",Meetz,Google,0.7.0,edu.berkeley.Voltsillam,9.68
+Redhold,"Poisoning by anticholinesterase agents, assault, subs encntr",Ainyx,Android,0.2.6,de.e-recht24.Y-Solowarm,11.58
+Stronghold,"Complete loss of teeth due to caries, class III",Rhyzio,Apple,7.8,org.gnu.Home Ing,2.81
+Bitwolf,"Pneumococcal arthritis, right hip",Yodo,Google,7.4,com.vinaora.Stronghold,11.94
+Domainer,"Nondisp seg fx shaft of rad, r arm, 7thC",Zooxo,Android,0.79,com.homestead.Quo Lux,11.73
+Rank,"Leakage of carotid arterial graft (bypass), init encntr",Kazu,Google,0.8.7,net.furl.Prodder,1.21
+Andalax,"Fetal anemia and thrombocytopenia, first trimester, fetus 4",Realcube,Android,9.5.3,com.cisco.Andalax,12.72
+Y-find,"Zoster ocular disease, unspecified",Thoughtsphere,Android,0.96,edu.berkeley.Rank,3.84
+Mat Lam Tam,"Burn of third degree of right lower leg, subs encntr",Ntags,Apple,7.86,com.quantcast.Cardify,11.74
+Opela,"Avulsion of right eye, subsequent encounter",Meevee,Android,0.69,com.histats.Regrant,11.93
+Konklux,"Exudative age-related mclr degn, left eye, stage unspecified",Abata,Apple,4.2,com.sitemeter.Andalax,4.44
+Temp,Laceration of other blood vessels at lower leg level,Skibox,Android,7.6.5,vu.de.Bamity,7.18
+Pannier,Other male sexual dysfunction,Trilith,Google,4.1,com.studiopress.Trippledex,12.11
+Home Ing,Other age-related incipient cataract,Thoughtbridge,Android,3.2.1,com.boston.It,8.8
+Overhold,Posterior subluxation and dislocation of sternoclav jt,Dynabox,Apple,0.3.8,ru.liveinternet.Subin,2.61
+Konklab,"Superficial foreign body of unspecified thumb, init encntr",Wikido,Android,0.4.4,org.wordpress.Opela,10.7
+Zoolab,"Nondisp oblique fx shaft of humerus, right arm, sequela",Rhyloo,Apple,0.6.2,me.about.Domainer,7.58
+Fix San,"Toxic effect of unspecified pesticide, assault, sequela",Abatz,Google,1.0.5,org.wikimedia.Transcof,12.27
+Wrapsafe,Athscl autologous artery CABG w unstable angina pectoris,Meedoo,Android,5.7,ch.admin.Konklab,7.32
+Span,"Superficial foreign body, left lesser toe(s), init encntr",Tagcat,Android,7.7.1,de.amazon.Zaam-Dox,6.3
+Home Ing,"Other specified joint disorders, right wrist",Eadel,Android,0.42,de.1und1.Cardify,10.82
+Job,Other disorders of adult personality and behavior,Demimbu,Google,0.47,jp.japanpost.Sonsing,11.87
+Andalax,"Acute frontal sinusitis, unspecified",Voonix,Google,6.32,au.gov.privacy.Job,5.13
+Latlux,"Unsp injury of popliteal vein, unspecified leg, subs encntr",Twitternation,Android,0.96,com.diigo.Kanlam,13.57
+Voltsillam,Perf due to fb acc left in body following unsp procedure,Aivee,Google,3.3,gov.state.Asoka,11.35
+Stim,"Other firearm discharge, undetermined intent, subs encntr",Skimia,Apple,1.18,edu.wisc.Stim,5.4
+Lotlux,"Burn due to localized fire on board unsp watercraft, subs",Pixonyx,Apple,0.72,gov.dot.Solarbreeze,2.47
+Treeflex,"Displ seg fx shaft of unsp tibia, 7thM",InnoZ,Apple,1.67,com.multiply.Fintone,1.49
+Temp,Chronic graft-versus-host disease,Youtags,Apple,0.20,com.statcounter.Span,5.31
+Stronghold,Anisocoria,Eadel,Android,0.3.1,com.ifeng.Regrant,2.11
+Namfix,"Nondisp Zone II fracture of sacrum, subs for fx w nonunion",Roombo,Google,5.4,com.scribd.Voltsillam,7.26
+Stronghold,Intraop hemor/hemtom of a nervous sys org comp a procedure,Fiveclub,Google,4.1.0,org.edublogs.Daltfresh,5.46
+Cardguard,"Subluxation of right ankle joint, initial encounter",Dabtype,Apple,0.2.1,com.cdbaby.Fixflex,12.23
+Solarbreeze,"Displ suprcndl fx w intrcndl extn low end l femr, 7thQ",Fivespan,Apple,0.7.2,com.goodreads.Keylex,5.58
+Otcom,"Oth fx low end r ulna, subs for opn fx type I/2 w routn heal",Feedspan,Apple,2.0.6,com.godaddy.Tresom,8.89
+Tresom,Other specified cerebrovascular diseases,Twitterlist,Google,7.7,com.aol.Holdlamis,12.59
+Sonsing,"Nondisp commnt fx shaft of l femur, init for opn fx type I/2",Zoonder,Android,6.5.1,jp.ne.sakura.Fixflex,1.57
+It,Other subluxation and dislocation of patella,Dabtype,Apple,6.8,com.yellowbook.Span,14.99
+Flowdesk,"Other secondary osteonecrosis, unspecified tibia",Oba,Android,2.2,net.furl.Home Ing,2.31
+Overhold,"Disp fx of less trochanter of l femr, 7thR",Voomm,Apple,0.61,us.imageshack.Bigtax,8.68
+Subin,"Corrosion of first degree of unspecified wrist, subs encntr",Innotype,Apple,5.6,com.theatlantic.Cardify,9.47
+Mat Lam Tam,"Babystroller colliding with stationary object, subs encntr",Innojam,Apple,3.0.8,be.youtu.Treeflex,7.0
+Cardguard,"Idiopathic gout, right hand",Brainsphere,Google,0.6.3,gov.fema.Asoka,14.0
+Job,"Sublux of distal interphaln joint of l rng fngr, sequela",Yozio,Google,6.06,com.adobe.Span,4.27
+Ventosanzap,Stable burst fracture of T5-T6 vertebra,Plajo,Google,7.6,com.indiegogo.Ventosanzap,2.27
+Fixflex,"Oth fx left patella, subs for opn fx type 3A/B/C w nonunion",Topiczoom,Apple,4.57,com.ihg.Sonair,7.62
+Fixflex,"Injury of peritoneum, sequela",Shuffletag,Apple,0.31,edu.utexas.Viva,11.19
+Span,Nondisplaced avulsion fracture (chip fracture) of unsp talus,Dynava,Apple,4.9.7,com.domainmarket.Keylex,6.85
+Fintone,Frostbite with tissue necrosis of foot,Thoughtbridge,Google,0.4.3,com.techcrunch.Andalax,7.04
+Tres-Zap,Other constitutional aplastic anemia,Realcube,Google,1.25,ca.google.Cardguard,5.19
+Rank,"Nexdtve age-related mclr degn, left eye, stage unspecified",Babbleopia,Apple,0.5.7,com.sitemeter.Veribet,6.68
+Alphazap,"Nondisp pilon fx unsp tibia, 7thN",Innotype,Android,5.9,com.godaddy.Kanlam,14.4
+Tempsoft,"Unsp open wound of right great toe w damage to nail, subs",Divape,Apple,6.26,com.theatlantic.Cardguard,7.57
+Rank,"Osteochondropathy, unspecified, left ankle and foot",Skajo,Google,0.46,com.cnet.Transcof,4.45
+Prodder,"Disp fx of med condyle of l femr, 7thJ",Bluejam,Apple,0.4.6,la.51.Rank,4.43
+Bitchip,"Nondisp comminuted fracture of shaft of right fibula, init",Flashspan,Android,0.77,com.jiathis.Mat Lam Tam,13.75
+Latlux,"Nondisp fx of distal pole of navic bone of unsp wrist, sqla",Abatz,Android,0.9.1,ru.odnoklassniki.Otcom,14.2
+Ronstring,"Lymphoblastic (diffuse) lymphoma, lymph nodes mult site",Vipe,Google,0.8.0,com.nifty.Sonsing,12.29
+Y-Solowarm,"Insect bite (nonvenomous) of breast, unsp breast, init",Yata,Google,1.07,com.mozilla.Voyatouch,5.02
+Fintone,"Acute toxic conjunctivitis, left eye",Photobug,Apple,9.3.9,net.themeforest.Namfix,1.98
+Tampflex,"Injury of radial nerve at upper arm level, right arm",Dynazzy,Apple,8.11,com.sohu.Wrapsafe,13.12
+Flowdesk,Oth symptoms and signs involving the dgstv sys and abdomen,Zoombox,Apple,9.6.0,com.intel.Toughjoyfax,4.21
+Gembucket,"Dislocation of jaw, unspecified side, initial encounter",Buzzbean,Google,0.6.5,com.meetup.Y-Solowarm,12.18
+Alphazap,"Nondisp fx of olecran pro w/o intartic extn unsp ulna, 7thR",Twitterbeat,Google,1.73,jp.japanpost.Bigtax,12.8
+Vagram,"Injury of ulnar nerve at upper arm level, left arm",Zooxo,Google,8.4.0,com.delicious.Cardify,9.94
+Tin,"Nondisp pilon fx right tibia, subs for clos fx w routn heal",Ntag,Google,0.10,gov.epa.Konklab,7.1
+Veribet,"Sltr-haris Type II physl fx low end r fibula, 7thP",Pixonyx,Apple,0.3.6,com.businessweek.Voyatouch,6.39
+Andalax,"Nondisp fx of sternal end l clavicle, subs for fx w malunion",Vitz,Android,9.39,com.eepurl.Vagram,7.78
+Quo Lux,"Unsp inj msl/tnd lng extn msl of toe at ank/ft level, r foot",Skynoodle,Apple,0.5.9,com.barnesandnoble.Keylex,8.56
+Zoolab,Benign neoplasm of descending colon,Kayveo,Google,0.90,com.hc360.Ronstring,9.88
+Trippledex,"Disp fx of distal phalanx of unspecified thumb, sequela",Kare,Google,5.8.3,com.scribd.Domainer,2.92
+Flowdesk,"Wear of artic bearing surface of int prosth r knee jt, subs",Babbleopia,Google,5.3.9,gd.is.Lotlux,9.06
+Treeflex,"Partial traum amp of unsp hip and thigh, level unsp, sequela",Zoonder,Google,2.6,com.freewebs.Lotstring,14.52
+Solarbreeze,"Sltr-haris Type II physeal fx upper end of unsp fibula, init",Topiczoom,Google,0.1.6,cz.toplist.Toughjoyfax,2.44
+Sonsing,"Injury of accessory nerve, left side, subsequent encounter",Plambee,Google,0.8.5,com.theglobeandmail.Tresom,10.44
+Y-find,Mechanical loosening of internal left knee prosthetic joint,Skivee,Apple,0.87,com.blogs.Sub-Ex,4.77
+Sonair,"Poisoning by anticholin agents, accidental (unintentional)",Pixoboo,Android,6.41,com.java.Span,9.21
+Cardguard,"Disp fx of prox phalanx of unsp great toe, 7thG",Skinix,Apple,3.9,com.canalblog.Bitchip,5.9
+Biodex,"Injury of olfactory [1st ] nerve, unspecified side, sequela",Twinder,Google,5.4.3,uk.co.telegraph.Hatity,2.92
+Greenlam,"Cont preg aft spon abort of one fts or more, unsp tri, fts1",Dabvine,Apple,7.1,com.kickstarter.Home Ing,1.44
+Ventosanzap,"Poisoning by antidiarrheal drugs, intentional self-harm",Skimia,Google,0.74,uk.co.guardian.Bamity,10.26
+Andalax,"Oth fx third MC bone, right hand, subs for fx w malunion",Leexo,Google,5.8.2,com.howstuffworks.Andalax,13.0
+Zaam-Dox,"Type 2 fracture of sacrum, init encntr for open fracture",DabZ,Android,0.66,net.behance.Bamity,5.8
+Asoka,"Disp fx of neck of right talus, subs for fx w routn heal",Quinu,Apple,0.9.2,com.cdbaby.Tempsoft,5.56
+Konklux,"Driver of bus injured in clsn w pedl cyc nontraf, sequela",Dabfeed,Apple,0.4.6,com.delicious.Subin,1.14
+Zamit,"Fracture of condylar process of right mandible, sequela",Twitterwire,Google,8.8.8,org.bbb.Subin,1.45
+Opela,Adverse effect of antacids and anti-gastric-secretion drugs,Latz,Android,0.80,edu.uiuc.Bitwolf,8.89
+Treeflex,Chronic perichondritis of left external ear,Divanoodle,Google,1.2.7,ru.narod.Duobam,6.44
+Flowdesk,"Poisoning by antifungal antibiotics, sys used, assault",Zoonder,Apple,0.48,com.howstuffworks.Flexidy,2.94
+Tres-Zap,"Disorder of ligament, right hip",Skinix,Google,0.4.1,com.newyorker.Transcof,14.41
+Gembucket,"Osteitis deformans in neoplastic diseases, thigh",Eazzy,Android,0.6.3,com.printfriendly.Viva,13.16
+Kanlam,"Displaced oblique fracture of shaft of unsp femur, sequela",Youfeed,Android,0.3.4,org.creativecommons.Y-find,4.9
+Trippledex,"Extradural and subdural abscess, unspecified",Lazzy,Google,1.3,jp.co.rakuten.Transcof,10.21
+Keylex,"Person injured in unsp motor-vehicle accident, traffic, subs",Rhycero,Apple,1.3.0,com.ehow.Zathin,2.94
+Vagram,"Nondisp fx of pisiform, left wrist, init for opn fx",Voonder,Apple,3.8,com.constantcontact.Konklab,14.08
+Sonsing,Abscess of lung with pneumonia,Plajo,Google,6.68,com.businesswire.Duobam,12.66
+Temp,Underdosing of oxytocic drugs,Tagopia,Apple,3.01,com.nifty.Daltfresh,3.91
+Zontrax,"Difficulty in walking, not elsewhere classified",Skiba,Android,0.53,edu.mit.It,12.88
+Solarbreeze,Corrosions of other specified parts of left eye and adnexa,Eire,Apple,5.9,com.theglobeandmail.Ronstring,14.67
+Trippledex,"Nondisp transverse fx shaft of unsp ulna, 7thG",Ntag,Android,0.29,com.tinypic.Fix San,5.13
+Namfix,Vomiting of newborn,Thoughtworks,Google,0.8.7,uk.ac.ox.Bamity,11.95
+Vagram,Prosth/oth implnt/mtrls gen/plast-surg devices assoc w incdt,Youfeed,Google,1.1.7,uk.ac.cam.Bigtax,10.67
+Sonair,"Breakdown of breast prosthesis and implant, subs",Teklist,Apple,1.14,info.aboutads.Job,7.41
+Fixflex,"Disp fx of prox phalanx of r lit fngr, 7thP",Skyvu,Apple,0.4.9,com.hibu.Greenlam,13.45
+Konklux,"Type 2 diab with mod nonp rtnop without macular edema, r eye",Chatterpoint,Apple,0.8.5,com.moonfruit.Redhold,5.85
+Bytecard,"Preterm labor w preterm delivery, unsp trimester, unsp",Gigaclub,Android,6.3.6,com.theatlantic.Sonair,6.2
+Overhold,Other sprain of other finger,Tekfly,Android,6.09,us.imageshack.Sonair,5.16
+Cookley,Mild hypoxic ischemic encephalopathy [HIE],Photobean,Google,5.9,gov.nasa.Fixflex,5.51
+Domainer,"Maternal care for oth fetal problems, first trimester, unsp",Ntag,Apple,3.05,com.feedburner.Ronstring,7.65
+Sonsing,"Tox eff of corrosv alkalis and alk-like substnc, undet, init",Edgeclub,Apple,0.4.1,com.marketwatch.Vagram,1.26
+Voltsillam,"Cystic meniscus, posterior horn of medial meniscus, r knee",Dabshots,Apple,9.5.6,jp.shop-pro.Vagram,7.6
+Rank,"Ulnar collateral ligament sprain of right elbow, sequela",Realmix,Google,0.1.6,uk.ac.cam.Stringtough,11.87
+Viva,"Chronic emblsm and thombos unsp deep veins of low extrm, bi",Browsebug,Google,0.7.0,jp.ne.ocn.Toughjoyfax,10.64
+Veribet,"Inj msl/fasc/tnd posterior grp at thi lev, right thigh, init",Agimba,Apple,0.8.4,edu.mit.Domainer,7.25
+Gembucket,"Oth tear of medial mensc, current injury, unsp knee, sequela",Wordpedia,Android,0.8.7,com.domainmarket.Vagram,9.19
+Stim,"Unsp car occ inj in clsn w nonmtr vehicle in traf, sequela",Divanoodle,Android,0.7.3,com.nytimes.Job,4.02
+Kanlam,"Nondisp intartic fx l calcaneus, subs for fx w malunion",Devbug,Android,7.2,com.bloglovin.Domainer,11.14
+Viva,"Laceration w/o fb of unsp eyelid and periocular area, subs",Omba,Android,6.64,com.topsy.Flexidy,10.61
+Tampflex,"Disp fx of lateral epicondyl of unsp humer, 7thP",Thoughtstorm,Android,0.5.2,com.latimes.Voyatouch,8.54
+Tres-Zap,"Burn of third degree of right toe(s) (nail), subs encntr",Dabfeed,Google,5.3,edu.princeton.Zamit,9.25
+Alphazap,Exposure to radon,Jetwire,Android,0.74,com.vimeo.Cardguard,11.8
+Mat Lam Tam,Laceration of sigmoid colon,Skinix,Apple,8.0.3,com.cbsnews.Zaam-Dox,1.56
+Viva,Local astringents and local detergents,Mydo,Android,0.3.3,com.geocities.Prodder,14.01
+Voltsillam,Sedatv/hyp/anxiolytc depend w psychotic disorder w delusions,Muxo,Android,0.3.2,com.baidu.Duobam,6.58
+Subin,"Toxic effect of chlorine gas, accidental, sequela",Zoomdog,Apple,7.9.0,com.booking.Ventosanzap,11.49
+Gembucket,Corrosion of second degree of unspecified scapular region,Quatz,Google,0.26,com.walmart.Duobam,3.61
+Bitchip,"War op w explosn of sea-based artlry shell, civilian, init",Rhynyx,Apple,2.12,org.edublogs.Bytecard,8.84
+Konklux,"Poisoning by tetracyclines, undetermined, sequela",Brightbean,Apple,0.1.4,org.edublogs.Biodex,7.23
+Gembucket,Toxic effect of carbon monoxide from motor vehicle exhaust,Vitz,Google,6.44,com.usnews.Zontrax,2.32
+Bigtax,"Intcran inj w loss of consciousness of 31-59 min, init",Dabtype,Google,0.24,com.mozilla.Lotstring,6.38
+Latlux,"Unsp acc to oth private fix-wing aircraft, injuring occupant",Tagpad,Google,9.3.7,org.wikipedia.Greenlam,7.9
+Bytecard,"Severely displaced Zone III fracture of sacrum, sequela",Brainsphere,Apple,8.9.9,com.parallels.Kanlam,2.54
+Stringtough,Other injury of liver,Dazzlesphere,Google,0.39,org.joomla.Transcof,5.42
+Tin,Corrosions involving 10-19% of body surface,Twinder,Apple,4.12,com.angelfire.Tempsoft,6.84
+Stringtough,"Fracture of one rib, right side",Aibox,Apple,9.0.2,gl.goo.It,12.52
+Quo Lux,"Corrosion of unspecified degree of neck, sequela",Tagopia,Google,0.86,nl.google.Aerified,4.01
+Opela,"Corrosion of second degree of unspecified lower leg, sequela",Skajo,Google,0.26,com.economist.Trippledex,10.6
+Quo Lux,"Subluxation of C6/C7 cervical vertebrae, initial encounter",Shufflebeat,Android,3.9.3,com.freewebs.Otcom,14.79
+Greenlam,"Disp fx of med phalanx of r idx fngr, subs for fx w malunion",Topdrive,Google,8.6.4,jp.ne.hatena.Lotstring,1.06
+Voyatouch,"Strain extn/abdr musc/fasc/tend of thmb at forarm lv, sqla",Buzzshare,Google,2.4,edu.princeton.Solarbreeze,8.78
+Wrapsafe,"Oth tear of medial mensc, current injury, unsp knee, sequela",Ozu,Apple,0.9.7,com.symantec.Aerified,13.16
+Zamit,29 weeks gestation of pregnancy,Gabcube,Apple,2.80,cn.com.people.Alphazap,2.93
+Trippledex,Disp fx of epiphysis (separation) (upper) of right femur,Brightdog,Android,1.7.8,com.yolasite.Fintone,8.01
+It,Food in oth parts of respiratory tract causing other injury,Skimia,Apple,7.6.7,com.xrea.Voyatouch,13.55
+Keylex,Hartnup's disease,Skilith,Google,9.4.9,jp.ne.so-net.Lotstring,1.37
+Ventosanzap,"Chondromalacia, shoulder",Kaymbo,Google,0.19,com.weather.Tin,8.88
+Bytecard,"Maternal care for anti-D antibodies, unsp trimester, fetus 4",Mybuzz,Google,7.62,org.creativecommons.Span,14.05
+Stronghold,Complication of continent stoma of urinary tract,Voomm,Google,0.53,com.nature.Latlux,8.59
+Biodex,Inj intrinsic musc/fasc/tend finger at wrist and hand level,Browseblab,Android,3.10,com.mayoclinic.Toughjoyfax,7.58
+Alphazap,"Torus fracture of lower end of left femur, sequela",Thoughtblab,Google,0.6.9,uk.co.amazon.Transcof,10.18
+Rank,"Pnctr w/o foreign body of unsp part of thorax, sequela",Devbug,Apple,0.95,com.about.Matsoft,9.37
+Gembucket,"Subluxation of distal end of right ulna, sequela",Leexo,Google,4.28,com.barnesandnoble.Fintone,11.44
+Stronghold,"Unspecified superficial injuries of breast, left breast",Linkbuzz,Android,8.81,edu.mit.Flexidy,5.51
+Y-Solowarm,"Laceration w fb of r idx fngr w/o damage to nail, init",Katz,Apple,2.2.7,com.bravesites.Mat Lam Tam,8.72
+Konklux,Other dislocation of unspecified patella,Jayo,Apple,3.2,com.typepad.Matsoft,10.13
+Lotlux,"Salter-Harris Type IV physeal fracture of r calcaneus, 7thD",Zoombeat,Google,8.38,info.aboutads.Veribet,8.32
+Alphazap,Chronic embolism and thrombosis of other specified veins,Thoughtbeat,Android,8.7,com.acquirethisname.Opela,12.3
+Rank,"Prsn brd/alit hv veh injured in clsn w 2/3-whl mv, sequela",Skyvu,Google,5.0,de.google.Fix San,6.34
+Keylex,"Postimmunization arthropathy, multiple sites",Jabberstorm,Google,8.57,com.wunderground.Stringtough,4.7
+Voyatouch,Fracture of lateral cuneiform,Voomm,Google,0.9.5,edu.umn.Holdlamis,2.32
+Ronstring,Other forms of erysipeloid,Zava,Google,0.69,com.wsj.It,10.17
+Matsoft,"Traumatic compartment syndrome of left lower extremity, init",Divape,Google,0.4.4,mil.army.Tampflex,12.82
+Regrant,"Separation of muscle (nontraumatic), unspecified forearm",Aibox,Apple,0.63,com.prnewswire.Duobam,5.35
+Rank,"Other meniscus derangements, other medial meniscus",Wikivu,Google,0.4.8,com.mediafire.Home Ing,3.68
+Y-find,"Anterior dislocation of unspecified radial head, sequela",Thoughtbeat,Google,0.3.5,com.chicagotribune.Duobam,7.29
+Daltfresh,Carcinoma in situ of other parts of respiratory system,Gigazoom,Android,0.1.2,org.pbs.Zamit,14.11
+Mat Lam Tam,"Laceration of unsp msl/tnd at ank/ft level, right foot, subs",Yacero,Apple,6.4.4,com.wikia.Transcof,3.45
+Aerified,Other neutropenia,Bubblemix,Google,9.04,com.hostgator.Cookley,8.5
+Otcom,"Nondisp fx of anterior column of left acetabulum, init",Oyoyo,Apple,6.2,com.bigcartel.Stronghold,2.41
+Flowdesk,"Panophthalmitis (acute), left eye",Dabvine,Android,5.2.9,com.ning.Greenlam,3.34
+Subin,Underdosing of opium,Tagfeed,Apple,0.4.8,com.alexa.Duobam,8.05
+Konklab,Abrasion of left index finger,Zoombeat,Android,0.7.0,net.cpanel.Andalax,14.18
+Wrapsafe,"Nondisp fx of body of left talus, subs for fx w delay heal",Devpulse,Apple,1.3,com.gizmodo.Zamit,2.38
+Matsoft,"Laceration with foreign body of lip, subsequent encounter",Abatz,Google,5.05,org.opensource.Rank,1.64
+Zamit,"Displ spiral fx shaft of ulna, r arm, 7thK",Yakidoo,Apple,0.2.3,com.ycombinator.Duobam,4.32
+Solarbreeze,"Unspecified open wound of unspecified forearm, subs encntr",Trudoo,Google,6.2.6,org.prlog.Aerified,9.26
+Voyatouch,"Contusion of right knee, initial encounter",Eidel,Android,9.3.0,com.yelp.Gembucket,2.71
+Latlux,"Sltr-haris Type III physl fx upr end rad, unsp arm, 7thG",Dabtype,Android,7.8,com.tmall.Keylex,2.33
+Fixflex,"Other juvenile osteochondrosis, right hand",Npath,Google,0.57,com.addthis.Duobam,12.14
+Andalax,"Displ commnt fx shaft of r tibia, 7thH",Twitterwire,Google,0.47,com.marriott.Vagram,4.89
+Opela,"Disp fx of lunate, unsp wrist, init encntr for open fracture",Topicshots,Apple,0.2.4,com.disqus.Alphazap,13.44
+Stim,"Mech compl of artif skin grft /decellular alloderm, sequela",Einti,Android,3.20,jp.ne.goo.Job,9.61
+Pannier,"Displ spiral fx shaft of ulna, unsp arm, 7thH",Kazu,Apple,3.8.0,com.sphinn.Job,5.41
+Hatity,"Unsp fx third MC bone, right hand, subs for fx w nonunion",Feednation,Apple,0.38,au.net.abc.Holdlamis,13.86
