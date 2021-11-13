@@ -37,21 +37,23 @@ public class WordTree {
 	//Returns true if successfully removed, false if the tree does not contain the word
 	public boolean remove(String word) {
 		if(!contains(word)) return false;
-
+    
 		Stack<Node> stk = new Stack<>();
 		Node n = root.getChild(word.charAt(0));
 		stk.push(n);
-		
+	
 		for(int i = 1; i < word.length(); i++) {
 			n = n.getChild(word.charAt(i));
 			stk.push(n);
 		}
+    
 		if(stk.peek().children.size() > 0) {
 			stk.peek().endOfWord = false;
 			return true;
 		} 
 		int index = word.length() - 1;
 		stk.pop();
+    if(!stk.isEmpty()){
 		stk.peek().children.remove(stk.peek().getChild(word.charAt(index)));
 		index--;
 		while(!stk.isEmpty()) {
@@ -64,6 +66,7 @@ public class WordTree {
 			n.children.remove(n.getChild(word.charAt(index)));
 			index--;
 		}
+    }
 		return true;
 	}
 	

@@ -5,11 +5,15 @@
 */
 //-------------------various imports------------------
 import java.util.ArrayList;
-import java.awt.Graphics;
-import java.awt.Rectangle;
+import java.awt.*;
+
+import javax.imageio.ImageIO;
 import javax.swing.JFrame;
 import javax.swing.JPanel;
 import java.awt.Color;
+import java.awt.image.ImageObserver;
+import java.io.File;
+import java.io.IOException;
 //import java.awt.*;
 //---------------------------------------------------Start of "App" class------------------------------------------------
 public class App {
@@ -21,6 +25,7 @@ public class App {
   public String platforms; // string to store the platform the app runs on
   public String version; // string to store the current version the app is on
   public String link; // string to store a link to the App 
+  public Image image;
 
   //-----------------------------------------------------methods-------------------------------------------------
   /*
@@ -28,12 +33,19 @@ public class App {
   */
   public App(String name, String description, String organization, String platforms, String version, String link, String price) {
     this.name = name;
-    this.price = price;
+    if(price.length() - price.indexOf('.') != 3) this.price = '$' + price + '0';
+    else this.price = '$' + price;
     this.description = description;
     this.organization = organization;
     this.platforms = platforms;
     this.version = version;
     this.link = link;
+    try {
+		this.image = ImageIO.read(new File("world.jpg"));
+	} catch (IOException e) {
+		// TODO Auto-generated catch block
+		e.printStackTrace();
+	}
   }
 
   // method to draw the window of the app, with the parameter Graphics g 
@@ -42,21 +54,16 @@ public class App {
 
     //drawing a rectangle to houes the information about the App
     g.setColor(Color.LIGHT_GRAY);
-    g.fillRect(10, 10, 540, 226);
+    g.fillRect(10, 10, 540, 300);
     g.setColor(Color.BLACK);
-    g.drawRect(10, 10, 541, 227);
+    g.drawRect(10, 10, 541, 300);
     g.drawRect(45, 15, 200, 15);
-
-    //drawing a rectangle to show where the Icon of the App will later be shown
-    //in a future implementation
-    g.drawRect(450, 25, 50, 50);
-    g.drawString("App ", 452, 40);
-    g.drawString("Icon", 452, 50);
-    g.drawString("Here", 452, 60);
-
+    g.drawImage(image, 450, 30, 75, 75, null);
+	g.drawRect(450, 30, 75, 75);
+    
     //drawing the information about the app in the window
     g.drawString("Name: " + name, 50, 50);
-    g.drawString("Price: $" + tempPrice, 50, 75);
+    g.drawString("Price: " + tempPrice, 50, 75);
     g.drawString("Description: " + description, 50, 100);
     g.drawString("Organization: " + organization, 50, 125);
     g.drawString("Version: " + version, 50, 150);

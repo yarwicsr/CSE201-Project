@@ -1,0 +1,5 @@
+Zontrax,"Person outside car injured in collision w SUV nontraf, init",Yata,Google,4.68,edu.princeton.Stringtough,13.97,Cameron
+Lotstring,Strain of flexor musc/fasc/tend of unsp fngr at forarm lv,Skalith,Android,0.6.1,com.xrea.Cookley,4.56,Sophia
+Quo Lux,"Severely displaced Zone II fracture of sacrum, init",Brightbean,Android,4.7,com.blinklist.Viva,9.53,Brendan
+Bytecard,"Insect bite (nonvenomous), left great toe, initial encounter",Eazzy,Android,4.5.7,org.altervista.Cardguard,2.35,Johnny
+Zontrax,Abnormal microbiolog findings in specmn from resp org/thrx,BlogXS,Apple,6.75,com.xing.Zaam-Dox,9.36,Yidong
