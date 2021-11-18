@@ -38,17 +38,18 @@ public class Main extends JPanel implements KeyListener {
 	
   int preX, preY, whoClicked; // preX and preY store the location of the users mouse click,
   //whoClicked is currently unused
-	
+  int searchX = 45;
+  int searchY = 15;
   int index = 0;
 	
-  int userstatus = 0; // stores the current credentials of a user, 2 is an admin, 1 is a moderator,
+  public static int userstatus = 0; // stores the current credentials of a user, 2 is an admin, 1 is a moderator,
   // and 0 is a user
 	
   String searchTerm = "Search: "; // searchTerm stores the string the user types into the 
   // searchbar, initially starting with "Search: " to help guide the user to search for information
   // in that location, then, "Search: " is replaced by an empty string when the user clicks on the search
   // bar, and then is filled with the string the user types
-
+  String currComment = "Comment: ";
 	String username = ""; // stores the username that the user types in
 	String password = ""; // stores the password that the user types in 
 	String newUser = "Username:";
@@ -66,6 +67,8 @@ public class Main extends JPanel implements KeyListener {
 	boolean typingNewPass = false;
 	boolean appList = false;
 	boolean requestsScreen = false;
+	boolean currCommenting = false;
+	
 	int appListIndex = 0;
 	static WordTree names = new WordTree(); // names stores all of the names derived from the data file supplied
 	Set<String> startingWith = new HashSet<String>(); // stores all of the possible names, starting with the 
@@ -121,11 +124,15 @@ public class Main extends JPanel implements KeyListener {
         //checking if the click was located in the searchbar
 				if(appList) {
 					for(int i = 0; i < apps.size() - appListIndex; i++) {
-						if(x >= 25 && x <= 425 && y >= 13 + (15 * (i + 1)) && y <= 28 + (15 * (i + 1))) {
+						if(x >= 25 && x <= 425 && y >= 23 + (15 * (i + 1)) && y <= 38 + (15 * (i + 1))) {
 							appList = false;
 							index = i + appListIndex + 1;
 							repaint();
 						}
+					}
+					if(x >= 450 && x <= 500 && y >= 15 && y <= 30) {
+						appList = false;
+						repaint();
 					}
 				}
 				if(requestsScreen) {
@@ -143,7 +150,11 @@ public class Main extends JPanel implements KeyListener {
 						repaint();
 					}
 				}
-				if(x >= 45 && x <= 245 && y >= 15 && y <= 30) {
+				if(x >= 50 && x <= 425 && y >= 205 && y <= 220) {
+					currComment = "";
+					currCommenting = true;
+					repaint();
+				} else if(x >= searchX && x <= searchX + 200 && y >= searchY && y <= searchY + 15) {
 					searchTerm = "";
 					currSearching = true;
 					repaint(); //updating the window to show the user their entered characters
@@ -156,7 +167,10 @@ public class Main extends JPanel implements KeyListener {
 				} else if(x >= 300 && x <= 375 && y >= 15 && y <= 45) {
 					appList = true;
 					repaint();
-				} else currSearching = false;
+				} else {
+					currSearching = false;
+					currCommenting = false;
+				}
 				if(userstatus == 2) {
 					if(x >= 15 && x <= 165 && y >= 260 && y <= 275) {
 						newUser = "";
@@ -182,6 +196,14 @@ public class Main extends JPanel implements KeyListener {
 	    				repaint();
 	    			}
 				}
+				for(int i = 0; i < apps.get(index).comments.size(); i++) {
+					if(x >= 400 && x <= 440 && y >= 250 + (50 * i) && y <= 265 + (50 * i)) {
+						if(userstatus == 1 || apps.get(index).comments.get(i).username.equals(username)) {
+							apps.get(index).comments.remove(i);
+							repaint();
+						}
+					}
+				}
         //checking first if the user is already loggedin, and if not, allowing the user to enter 
         // a username and password in attempt to login
 				if(!loggedIn) {
@@ -202,7 +224,10 @@ public class Main extends JPanel implements KeyListener {
 		  }
           //if the user clicks on the login button, logging them in
 					if(x >= 100 && x <= 150 && y >= 150 && y <= 165) {
-						if(username == "" && password == "") loggedIn = true;
+						if(username == "" && password == "") {
+							loggedIn = true;
+							username = "Anonymous";
+						}
 						login();
 					}
 				}
@@ -224,75 +249,60 @@ public class Main extends JPanel implements KeyListener {
 	
 	//Paints the list of apps
 	protected void paintAppList(Graphics g) {
-		currSearching = false;
 		g.setColor(Color.LIGHT_GRAY); // setting the color to light gray
-	    g.fillRect(10, 10, 540, 15 * apps.size() + 50);
+	    g.fillRect(10, 0, 540, 15 * apps.size() + 50);
 	    g.setColor(Color.BLACK);
-	    g.drawString("Name", 30, 25);
-	    g.drawString("Organization", 130, 25);
-	    g.drawString("Platform", 230, 25);
-	    g.drawString("Price", 330, 25);
-	    g.drawRect(25, 13, 100, 15);
-	    g.drawRect(125, 13, 100, 15);
-	    g.drawRect(225, 13, 100, 15);
-	    g.drawRect(325, 13, 100, 15);
+	    g.drawString("Name", 30, 35);
+	    g.drawString("Organization", 130, 35);
+	    g.drawString("Platform", 230, 35);
+	    g.drawString("Price", 330, 35);
+	    g.drawRect(25, 23, 100, 15);
+	    g.drawRect(125, 23, 100, 15);
+	    g.drawRect(225, 23, 100, 15);
+	    g.drawRect(325, 23, 100, 15);
+	    g.setColor(Color.GRAY);
+	    g.fillRect(450, 25, 50, 15);
+	    g.setColor(Color.BLACK);
+	    g.drawRect(450, 25, 50, 15);
+	    g.drawString("Back", 452, 37);
 	    int tempIndex = appListIndex;
 		for(int i = 0; appListIndex < apps.size() - 1; i++) {
 			appListIndex++;
-			g.drawString(apps.get(appListIndex).name, 50, 15 * i + 40);
-			g.drawRect(25, 13 + (15 * (i + 1)), 100, 15);
-			g.drawString(apps.get(appListIndex).organization, 130, 15 * i + 40);
-			g.drawRect(125,  13 + (15 * (i + 1)), 100, 15);
-			g.drawString(apps.get(appListIndex).platforms, 230, 15 * i + 40);
-			g.drawRect(225,  13 + (15 * (i + 1)), 100, 15);
-			g.drawString(apps.get(appListIndex).price, 330, 15 * i + 40);
-			g.drawRect(325,  13 + (15 * (i + 1)), 100, 15);
-			g.drawImage(apps.get(appListIndex).image, 30, 15 + (15 * (i + 1)), 13, 13, null);
+			g.drawString(apps.get(appListIndex).name, 50, 15 * i + 50);
+			g.drawRect(25, 23 + (15 * (i + 1)), 100, 15);
+			g.drawString(apps.get(appListIndex).organization, 130, 15 * i + 50);
+			g.drawRect(125,  23 + (15 * (i + 1)), 100, 15);
+			g.drawString(apps.get(appListIndex).platforms, 230, 15 * i + 50);
+			g.drawRect(225,  23 + (15 * (i + 1)), 100, 15);
+			g.drawString(apps.get(appListIndex).price, 330, 15 * i + 50);
+			g.drawRect(325,  23 + (15 * (i + 1)), 100, 15);
+			g.drawImage(apps.get(appListIndex).image, 30, 25 + (15 * (i + 1)), 13, 13, null);
 		}
+		searchY = 5;
+		drawSearchBar(g);
 		appListIndex = tempIndex;
 	}
 	
 	//Paints the detailed app view screen
 	protected void paintAppView(Graphics g) {
 		apps.get(index).draw(g);
+		searchX = 45;
+		searchY = 15;
+		drawSearchBar(g);
 		g.drawRect(300, 15, 75, 30); //Draw App List button
 		g.setColor(Color.GRAY);
-		g.drawString(searchTerm, 46, 27); // showing the user the characters they have entered so far
 		g.fillRect(300, 15, 75, 30);
 		g.setColor(Color.BLACK);
 		g.drawRect(300, 15, 75, 30);
 		g.drawString("App List", 310, 30);
 	//checking if the user is currently searching, and if the user has entered any characters at all
-		if(currSearching && searchTerm.length() > 0) {
-
-		//try catch block to catch NullPointerExceptions when searching for matching names from the data file
-			try {
-			//proceding if are names from the data file starting with the string the user has entered so far into the 
-			//search bar
-				String tempSearch = searchTerm.charAt(0) + "";
-				tempSearch = tempSearch.toUpperCase() + searchTerm.substring(1, searchTerm.length());
-				if(names.allStartingWith(tempSearch) != null) { startingWith = names.allStartingWith(tempSearch); }
-			// showing the user the names that start with the substring the user has already entered
-				g.setColor(Color.LIGHT_GRAY);
-				g.fillRect(45, 30, 200, 15 * startingWith.size());
-				int currHeight = 42;
-				g.setColor(Color.BLACK);
-				g.drawRect(45, 30, 200, 15 * startingWith.size());
-			// iterating through the startingWith hashSet, printing each name to the user directly below the searchbar,
-				for(String s : startingWith) {
-					g.drawString(s, 46, currHeight);
-					currHeight += 15;
-				}
-			}
-			catch (NullPointerException e) {  	}
-		}
 
 	//showing the users credentials in the bottom right corner
 		g.setColor(Color.GRAY);
 		g.fillRect(475, 205, 50, 15);
 		g.setColor(Color.black);
 		if(userstatus == 2) {
-			g.drawString("User is a admin", 350, 220);
+			g.drawString("Admin", 380, 25);
 			g.drawString("Add User:", 15, 250);
 			g.drawRect(15, 260, 150, 15);
 			g.drawRect(15, 290, 150, 15);
@@ -316,15 +326,60 @@ public class Main extends JPanel implements KeyListener {
 			g.drawRect(300, 280, 90, 15);
 		}
 		if(userstatus == 1) {
-			g.drawString("User is a moderator", 350, 220);
+			g.drawString("Moderator", 380, 25);
 		}
 		if(userstatus == 0) {
-			g.drawString("User is a user", 350, 220);
+			g.drawString("User", 380, 25);
 		}
 		g.drawRect(475, 205, 50, 15);
 		g.drawString("Log out", 480, 217);
+		g.drawRect(50, 205, 375, 15);
+		g.setColor(Color.GRAY);
+		g.drawString(currComment, 52, 217);
+		g.setColor(Color.BLACK);
+		for(int i = 0; i < apps.get(index).comments.size(); i++) {
+	    	Comment currComment = apps.get(index).comments.get(i);
+	    	g.drawRect(48, 245 + (50 * i), 400, 50);
+	    	g.drawString(currComment.username + ":", 50, 260 + (50 * i));
+	    	g.drawString(currComment.text, 50, 285 + (50 * i));
+	    	if(userstatus == 1 || currComment.username.equals(username)) {
+	    		g.setColor(Color.GRAY);
+	    		g.fillRect(400, 250 + (50 * i), 40, 15);
+	    		g.setColor(Color.BLACK);
+	    		g.drawString("Delete", 402, 263 + (50 * i));
+	    		g.drawRect(400, 250 + (50 * i), 40, 15);
+	    	}
+	    }
 	}
-	
+	protected void drawSearchBar(Graphics g) {
+		g.setColor(Color.BLACK);
+		g.drawRect(searchX, searchY, 200, 15);
+		g.setColor(Color.GRAY);
+		g.drawString(searchTerm, searchX + 1, searchY + 12);
+		if(currSearching && searchTerm.length() > 0) {
+			//try catch block to catch NullPointerExceptions when searching for matching names from the data file
+			try {
+			//proceding if are names from the data file starting with the string the user has entered so far into the 
+			//search bar
+				String tempSearch = searchTerm.charAt(0) + "";
+				tempSearch = tempSearch.toUpperCase() + searchTerm.substring(1, searchTerm.length());
+				if(names.allStartingWith(tempSearch) != null) { startingWith = names.allStartingWith(tempSearch); }
+			// showing the user the names that start with the substring the user has already entered
+				g.setColor(Color.LIGHT_GRAY);
+				g.fillRect(searchX, searchY + 15, 200, 15 * startingWith.size());
+				int currHeight = searchY + 27;
+				g.setColor(Color.BLACK);
+				g.drawRect(searchX, searchY + 15, 200, 15 * startingWith.size());
+			// iterating through the startingWith hashSet, printing each name to the user directly below the searchbar,
+				for(String s : startingWith) {
+					g.drawString(s, searchX + 1, currHeight);
+					currHeight += 15;
+				}
+			}
+			catch (NullPointerException e) {  	}
+		}
+		
+	}
 	//Paints login screen
 	protected void paintLogin(Graphics g) {
 		//username label, with input bar below
@@ -343,6 +398,9 @@ public class Main extends JPanel implements KeyListener {
 		g.drawRect(100, 150, 50, 15);
 		//drawing the log in button
 		g.drawString("Log in", 105, 162);
+		searchY = 200;
+		searchX = 100;
+		drawSearchBar(g);
 	}
 	
 	protected void paintRequests(Graphics g) {
@@ -360,6 +418,10 @@ public class Main extends JPanel implements KeyListener {
 		g.drawString("Back", 454, 25);
 		int count = 0;
 		for(App a : requestsList) {
+			g.drawString("Description: " + a.description.substring(0, 30), 150, 25 + (126 * count));
+			if(a.description.length() > 30) {
+				g.drawString(a.description.substring(30), 150, 40 + (126 * count));
+			}
 			g.drawRect(10, 10, 500, 126 + (126 * count));
 			g.drawString("Name: " + a.name, 15, 20 + (126 * count));
 			g.drawString("Organization: " + a.organization, 15, 35 + (126 * count));
@@ -368,7 +430,6 @@ public class Main extends JPanel implements KeyListener {
 			g.drawString("Link: " + a.link, 15, 80 + (126 * count));
 			g.drawString("Price: " + a.price, 15, 95 + (126 * count));
 			g.drawString("User: " + requestsUsers.get(requestsList.indexOf(a)), 15, 110 + (126 * count));
-			g.drawString("Description: " + a.description.substring(0, 30), 150, 25 + (126 * count));
 			g.setColor(Color.GRAY);
 			g.fillRect(15, 115 + (126 * count), 80, 15);
 			g.fillRect(100, 115 + (126 * count), 80, 15);
@@ -446,6 +507,8 @@ public class Main extends JPanel implements KeyListener {
 							index = i;
 							searchTerm = "Search: ";
 							currSearching = false;
+							appList = false;
+							loggedIn = true;
 							repaint();
 						}
 					} 
@@ -455,6 +518,8 @@ public class Main extends JPanel implements KeyListener {
 						index = i;
 						searchTerm = "Search: ";
 						currSearching = false;
+						appList = false;
+						loggedIn = true;
 						repaint();
 					}
 				}
@@ -465,6 +530,32 @@ public class Main extends JPanel implements KeyListener {
 				repaint();
 			}
 		} 
+		
+		if(currCommenting) {
+		  //if the user entered a backspace
+			if(e.getKeyCode() == 8) {
+		    // if the user entered string has at least length 1,
+				if(currComment.length() > 0) {
+		          //deleting the last character from that string
+					currComment = currComment.substring(0, currComment.length() - 1);
+		          //repainting the updated search String to the window
+					repaint();
+				}
+			} 
+		    //checking if the user has hit the enter key
+			else if(e.getKeyCode() == 10) {
+				apps.get(index).comments.add(new Comment(currComment, username));			
+				currComment = "Comment: ";
+				currCommenting = false;
+				repaint();
+			}
+		      //adding accepable characters to the string the user has entered so far, then updating it on the screen.
+		    else if(e.getKeyCode() < 16 || e.getKeyCode() > 18) {
+				currComment += currentKey;
+				repaint();
+			}
+		}
+		
     //checking if the user if typing in to the username login bar
 		if(typingUser) {
       // checking if the user hits the backspace
@@ -629,6 +720,10 @@ public class Main extends JPanel implements KeyListener {
 		}
 	}
 	
+  /*
+  *
+  *
+  */
 	void importRequests() {
 		try {
 			ArrayList<String> lines = (ArrayList<String>)Files.readAllLines(Paths.get("requests.txt"));

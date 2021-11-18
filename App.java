@@ -26,7 +26,7 @@ public class App {
   public String version; // string to store the current version the app is on
   public String link; // string to store a link to the App 
   public Image image;
-
+  public ArrayList<Comment> comments;
   //-----------------------------------------------------methods-------------------------------------------------
   /*
   * Constructor to initialize an "App" object and fill the class members accordingly
@@ -40,6 +40,7 @@ public class App {
     this.platforms = platforms;
     this.version = version;
     this.link = link;
+    this.comments = new ArrayList<Comment>();
     try {
 		this.image = ImageIO.read(new File("world.jpg"));
 	} catch (IOException e) {
@@ -54,10 +55,9 @@ public class App {
 
     //drawing a rectangle to houes the information about the App
     g.setColor(Color.LIGHT_GRAY);
-    g.fillRect(10, 10, 540, 300);
+    g.fillRect(10, 10, 540, 600);
     g.setColor(Color.BLACK);
-    g.drawRect(10, 10, 541, 300);
-    g.drawRect(45, 15, 200, 15);
+    g.drawRect(10, 10, 541, 600);
     g.drawImage(image, 450, 30, 75, 75, null);
 	g.drawRect(450, 30, 75, 75);
     
@@ -70,6 +70,9 @@ public class App {
     g.drawString("Platforms: " + platforms, 50, 175);
     g.setColor(Color.BLUE); // setting the color of the link to blue, to look as if it is an active link
     g.drawString("Link: " + link, 50, 200);
+    g.setColor(Color.BLACK);
+    g.drawString("Comments:", 50, 235);
+    
     
   }
 }
